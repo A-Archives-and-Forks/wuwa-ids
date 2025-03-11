@@ -1,3 +1,5 @@
+> Credits to [Roean](https://github.com/RoeanAigis/) for the dumper
+
 # Game Data
 
 ## Characters
