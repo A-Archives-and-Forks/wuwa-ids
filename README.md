@@ -1,6 +1,6 @@
 > Credits to [Roean](https://github.com/RoeanAigis/) for the dumper
 
-# Game Data
+# Game Data V2.2.4
 
 ## Characters
 
