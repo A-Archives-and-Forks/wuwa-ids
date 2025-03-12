@@ -1,5 +1,3 @@
-> Credits to [Roean](https://github.com/RoeanAigis/) for the dumper
-
 # Game Data V2.2.4
 
 | Category    | ID  | Display Name |
