@@ -37,3 +37,5 @@
 | 1206 | Brant |
 | 1506 | Phoebe |
 | 1607 | Cantarella |
+| 1507 | Zani |
+| 1407 | Ciaccona |
