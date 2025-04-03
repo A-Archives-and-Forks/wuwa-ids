@@ -93,3 +93,5 @@
 | 21020036 | Unflickering Valor |
 | 21020046 | Bloodpact's Pledge |
 | 21050056 | Whispers of Sirens |
+| 21040036 | TBD |
+| 21030026 | TBD |
