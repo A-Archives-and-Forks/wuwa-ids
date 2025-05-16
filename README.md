@@ -9,4 +9,4 @@
 - [Dungeons](dungeons.md)
 - [Countries](countries.md)
 
-> Game Version 2.3
+> Game Version 2.4 (characters updated only for now)
