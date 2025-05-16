@@ -39,5 +39,5 @@
 | 1607 | Cantarella |
 | 1507 | Zani |
 | 1407 | Ciaccona |
-| 1207 | Cartethyia |
-| 1409 | Lupa |
+| 1207 | Lupa |
+| 1409 | Cartethyia |
