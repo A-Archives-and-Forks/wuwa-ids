@@ -93,5 +93,7 @@
 | 21020036 | Unflickering Valor |
 | 21020046 | Bloodpact's Pledge |
 | 21050056 | Whispers of Sirens |
-| 21040036 | TBD |
-| 21030026 | TBD |
+| 21040036 | Blazing Justice |
+| 21030026 | Woodland Aria |
+| 21020056 | Cartethyia Weapon |
+| 21010036 | Lupa Weapon |
