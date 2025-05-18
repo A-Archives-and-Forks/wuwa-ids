@@ -95,5 +95,5 @@
 | 21050056 | Whispers of Sirens |
 | 21040036 | Blazing Justice |
 | 21030026 | Woodland Aria |
-| 21020056 | 自由骑士之舞 |
-| 21010036 | 闪耀星火 |
+| 21020056 | Defier's Thorn |
+| 21010036 | Wildfire Mark |
