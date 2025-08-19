@@ -42,3 +42,5 @@
 | 1207 | Lupa |
 | 1409 | Cartethyia |
 | 1608 | Phrolova
+| 1306 | Augusta
+| 1410 | Iuno
