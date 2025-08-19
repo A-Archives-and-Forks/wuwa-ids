@@ -97,3 +97,7 @@
 | 21030026 | Woodland Aria |
 | 21020056 | Defier's Thorn |
 | 21010036 | Wildfire Mark |
+| 21050066 | Lethean Elegy |
+| 21040046 | Moongazer's Sigil |
+| 21010046 | Thunderflare Dominion |
+| 21010104 | Aureate Zenith |
