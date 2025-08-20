@@ -100,4 +100,3 @@
 | 21050066 | Lethean Elegy |
 | 21040046 | Moongazer's Sigil |
 | 21010046 | Thunderflare Dominion |
-| 21010104 | Aureate Zenith |
