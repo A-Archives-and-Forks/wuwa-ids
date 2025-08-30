@@ -1,46 +1,58 @@
-# Characters
+# Character List
 
-| ID  | Display Name |
-|-----|--------------|
-| 1402 | Yangyang |
-| 1202 | Chixia |
-| 1503 | Verina |
-| 1501 | Rover: Spectro |
-| 1102 | Sanhua |
-| 1601 | Taoqi |
-| 1502 | Rover: Spectro |
-| 1103 | Baizhi |
-| 1203 | Encore |
-| 1602 | Danjin |
-| 1403 | Aalto |
-| 1404 | Jiyan |
-| 1204 | Mortefi |
-| 1603 | Camellya |
-| 1301 | Calcharo |
-| 1302 | Yinlin |
-| 1104 | Lingyang |
-| 1303 | Yuanwu |
-| 1604 | Rover: Havoc |
-| 1605 | Rover: Havoc |
-| 1504 | Lumi |
-| 1505 | Shorekeeper |
-| 1405 | Jianxin |
-| 1304 | Jinhsi |
-| 1105 | Zhezhi |
-| 1205 | Changli |
-| 1305 | Xiangli Yao |
-| 1106 | Youhu |
-| 1606 | Roccia |
-| 1107 | Carlotta |
-| 1408 | Rover: Aero |
-| 1406 | Rover: Aero |
-| 1206 | Brant |
-| 1506 | Phoebe |
-| 1607 | Cantarella |
-| 1507 | Zani |
-| 1407 | Ciaccona |
-| 1207 | Lupa |
-| 1409 | Cartethyia |
-| 1608 | Phrolova |
-| 1306 | Augusta |
-| 1410 | Iuno |
+| ID | Name |
+|----|------|
+| `1102` | Sanhua |
+| `1103` | Baizhi |
+| `1104` | Lingyang |
+| `1105` | Zhezhi |
+| `1106` | Youhu |
+| `1107` | Carlotta |
+| `1202` | Chixia |
+| `1203` | Encore |
+| `1204` | Mortefi |
+| `1205` | Changli |
+| `1206` | Brant |
+| `1207` | Lupa |
+| `1301` | Calcharo |
+| `1302` | Yinlin |
+| `1303` | Yuanwu |
+| `1304` | Jinhsi |
+| `1305` | Xiangli Yao |
+| `1306` | Augusta |
+| `1402` | Yangyang |
+| `1403` | Aalto |
+| `1404` | Jiyan |
+| `1405` | Jianxin |
+| `1406` | Rover: Aero |
+| `1407` | Ciaccona |
+| `1408` | Rover: Aero |
+| `1409` | Cartethyia |
+| `1410` | Iuno |
+| `1501` | Rover: Spectro |
+| `1502` | Rover: Spectro |
+| `1503` | Verina |
+| `1504` | Lumi |
+| `1505` | Shorekeeper |
+| `1506` | Phoebe |
+| `1507` | Zani |
+| `1601` | Taoqi |
+| `1602` | Danjin |
+| `1603` | Camellya |
+| `1604` | Rover: Havoc |
+| `1605` | Rover: Havoc |
+| `1606` | Roccia |
+| `1607` | Cantarella |
+| `1608` | Phrolova |
+| `5001` | Cruisewing |
+| `5002` | Zapstring |
+| `5003` | Excarat |
+| `5004` | Stonewall Bracer |
+| `5005` | Jué |
+| `5006` | Gulpuff |
+| `5007` | Crownless |
+| `5101` | Phrolova |
+| `5102` | Jinhsi |
+| `5103` | The Shorekeeper |
+| `9990` | Female Rover for Finishing Attack |
+| `9991` | Male Rover for Finishing Attack |
