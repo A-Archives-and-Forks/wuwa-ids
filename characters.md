@@ -14,6 +14,7 @@
 | `1205` | Changli |
 | `1206` | Brant |
 | `1207` | Lupa |
+| `1208` | Galbrena |
 | `1301` | Calcharo |
 | `1302` | Yinlin |
 | `1303` | Yuanwu |
@@ -29,6 +30,7 @@
 | `1408` | Rover: Aero |
 | `1409` | Cartethyia |
 | `1410` | Iuno |
+| `1411` | Qiuyuan |
 | `1501` | Rover: Spectro |
 | `1502` | Rover: Spectro |
 | `1503` | Verina |
@@ -44,15 +46,3 @@
 | `1606` | Roccia |
 | `1607` | Cantarella |
 | `1608` | Phrolova |
-| `5001` | Cruisewing |
-| `5002` | Zapstring |
-| `5003` | Excarat |
-| `5004` | Stonewall Bracer |
-| `5005` | Jué |
-| `5006` | Gulpuff |
-| `5007` | Crownless |
-| `5101` | Phrolova |
-| `5102` | Jinhsi |
-| `5103` | The Shorekeeper |
-| `9990` | Female Rover for Finishing Attack |
-| `9991` | Male Rover for Finishing Attack |

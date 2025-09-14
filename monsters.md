@@ -80,6 +80,11 @@
 | `310000660` | Nightmare: Aero Predator |
 | `310000670` | Nightmare: Gulpuff |
 | `310000680` | Nightmare: Chirpuff |
+| `310000690` | Stay tuned |
+| `310000700` | Stay tuned |
+| `310000710` | Stay tuned |
+| `310000720` | Stay tuned |
+| `310000730` | Stay tuned |
 | `320000010` | Stonewall Bracer |
 | `320000020` | Violet-Feathered Heron |
 | `320000030` | Cyan-Feathered Heron |
@@ -110,6 +115,7 @@
 | `320000270` | Abyssal Mercator |
 | `320000280` | Chop Chop |
 | `320000290` | Fractsidus Thruster |
+| `320000291` | Vitreum Dancer |
 | `320000300` | Cuddle Wuddle |
 | `320000310` | Rage Against the Statue |
 | `320000320` | Hurriclaw |
@@ -127,6 +133,7 @@
 | `320000440` | Corrosaurus |
 | `320000450` | Nightmare: Violet-Feathered Heron |
 | `320000460` | Nightmare: Cyan-Feathered Heron |
+| `320000470` | Stay tuned |
 | `330000010` | Tempest Mephis |
 | `330000020` | Inferno Rider |
 | `330000030` | Impermanence Heron |
@@ -134,6 +141,7 @@
 | `330000050` | Feilian Beringal |
 | `330000060` | Mourning Aix |
 | `330000070` | Fallacy of No Return |
+| `330000100` | Stay tuned |
 | `330000110` | Lorelei |
 | `330000120` | Sentry Construct |
 | `330000130` | Dragon of Dirge |
@@ -146,7 +154,9 @@
 | `330000200` | Nightmare: Mourning Aix |
 | `340000010` | Crownless |
 | `340000020` | Bell-Borne Geochelone |
-| `340000050` | Scar |
+| `340000030` | Cetus the Tidebreaker |
+| `340000040` | Encore |
+| `340000050` | Stay tuned |
 | `340000060` | Mech Abomination |
 | `340000070` | Dreamless |
 | `340000080` | Thundering Mephis |
@@ -163,6 +173,9 @@
 | `340000160` | Nightmare: Hecate |
 | `340000170` | The False Sovereign |
 | `340000180` | Lady of the Sea |
+| `340000190` | Stay tuned |
+| `340000200` | Stay tuned |
+| `340000201` | Stay tuned |
 | `350000010` | Phantom: Mourning Aix |
 | `350000020` | Phantom: Rocksteady Guardian |
 | `350000030` | Phantom: Hoartoise |

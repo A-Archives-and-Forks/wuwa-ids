@@ -2,88 +2,58 @@
 
 | ID | Name |
 |----|------|
-| `1` | Union EXP |
-| `2` | Shell Credit |
 | `3` | Astrite |
 | `4` | Lunite |
 | `5` | Waveplate |
 | `6` | Waveplate Crystal |
 | `8` | Podcast Experience |
-| `9` | Activity Points |
 | `10` | Data Bank experience |
 | `11` | Data Set |
 | `12` | Hazard Record |
-| `13` | Survey Points |
 | `14` | Preparation Credits |
 | `15` | Operation Fund |
-| `16` | Wish |
-| `17` | Popularity |
 | `18` | Palace Lantern |
 | `19` | Lollo Stamp |
 | `20` | Tide Note |
 | `24` | Stardust |
-| `25` | Adventure Log |
 | `26` | Rinascita Commemorative Stamp |
 | `27` | Riccioli Fishery Coin |
 | `28` | Abyssal Coral |
-| `29` | Coast Flax |
-| `30` | Palm Tree Log |
-| `31` | Metal Debris |
-| `32` | "Sweet Puff" |
 | `33` | Sandworm |
 | `34` | Trial Coin |
-| `35` | Fame |
 | `36` | Nameless Coin |
 | `37` | Universal Compass |
 | `38` | Old Compass |
 | `39` | Rinascita Fishing Guidebook |
 | `40` | Fragment of a Mysterious Scripture |
 | `42` | Matrix Crystal |
-| `43` | Popularity |
 | `44` | Magic Dice |
 | `46` | Nightmarket Token |
 | `47` | Trial Point |
 | `48` | Hunt Point |
-| `50` | Challenge Progress |
 | `51` | Festivity Point |
-| `52` | Challenge Progress |
 | `53` | Dreamland Badge |
 | `54` | Lost Mirror Piece |
 | `55` | Badge of Glory |
 | `58` | Blighted Fang |
 | `59` | Waveborn Moonstone |
-| `100` | Influence |
-| `101` | Influence |
-| `102` | Influence |
-| `103` | Influence |
 | `10800` | Crystal Solvent |
 | `10801` | Inscription Device |
-| `10802` | Waypoint |
-| `10803` | Casket Sonar |
-| `10804` | Lootmapper |
 | `10805` | Casket Sonar Use Permit: Jinzhou |
 | `10806` | Lootmapper Use Permit: Jinzhou |
 | `10807` | Sonar Circuit |
 | `10808` | Waypoint Module |
 | `10809` | Casket Sonar Use Permit: Rinascita |
 | `10810` | Lootmapper Use Permit: Rinascita |
-| `10811` | Wonder Bubble in the Port of Riccioli |
 | `10812` | Wonder Bubble of Helm Village |
 | `10813` | Wonder Bubble of the Serene Bay |
 | `10814` | Wonder Bubble of the Reyes Ruins |
-| `10815` | Sailer's Conviction |
-| `10816` | Faith of Unity |
 | `10817` | Valor of Tidebreaker |
 | `10818` | Passion of Vengeance |
 | `50001` | Lustrous Tide |
 | `50002` | Radiant Tide |
-| `50003` | Oscillated Coral |
-| `50004` | Afterglow Coral |
 | `50005` | Forging Tide |
 | `50006` | Voucher of Reciprocal Tides |
-| `50011` | Lunite Subscription |
-| `50012` | Lunite Subscription |
-| `50013` | Insider Channel |
 | `50014` | Connoisseur |
 | `50015` | Purchase Connoisseur Channel |
 | `50016` | Insider Channel Key |
@@ -158,7 +128,6 @@
 | `10001407` | Ciaccona's Waveband |
 | `10001409` | Cartethyia's Waveband |
 | `10001410` | Iuno's Waveband |
-| `10001500` | Rover's Waveband |
 | `10001503` | Verina's Waveband |
 | `10001504` | Lumi's Waveband |
 | `10001505` | The Shorekeeper's Waveband |
@@ -167,20 +136,13 @@
 | `10001601` | Taoqi's Waveband |
 | `10001602` | Danjin's Waveband |
 | `10001603` | Camellya's Waveband |
-| `10001604` | Rover's Waveband |
+| `10001605` | Jinhsi's Waveband |
 | `10001606` | Changli's Waveband |
 | `10001607` | Cantarella's Waveband |
 | `10001608` | Phrolova's Waveband |
-| `31000010` | Special Operation Diary D12547 |
-| `31000011` | Broken Shackles |
-| `31000012` | Mangosteen |
-| `31000013` | Sundial |
-| `31000014` | test/Leaf |
-| `31000015` | scavenger hunt note |
 | `31000016` | fantastic-tasting rice |
 | `31000032` | "Suppressor Tower I - Maintenance Log" |
 | `31000033` | "Suppressor Tower II - Maintenance Log" |
-| `31000034` | Unsent Electronic Communication |
 | `36000001` | Basic Sealed Tube |
 | `36000002` | Medium Sealed Tube |
 | `36000003` | Advanced Sealed Tube |
@@ -190,11 +152,7 @@
 | `36000013` | Advanced Tuner |
 | `36000014` | Premium Tuner |
 | `36000015` | Modifier |
-| `40040001` | Sonance Casket |
-| `40040002` | Windchimer |
 | `40040003` | KU-Cass Cartridge |
-| `40040004` | Sonance Casket: Ragunna |
-| `40040005` | Sonance Casket: Septimont |
 | `41100011` | LF Whisperin Core |
 | `41100012` | MF Whisperin Core |
 | `41100013` | HF Whisperin Core |
@@ -215,6 +173,10 @@
 | `41200032` | Mask of Erosion |
 | `41200033` | Mask of Distortion |
 | `41200034` | Mask of Insanity |
+| `41200051` | LF Tidal Residuum |
+| `41200052` | MF Tidal Residuum |
+| `41200053` | HF Tidal Residuum |
+| `41200054` | FF Tidal Residuum |
 | `41300005` | Mysterious Code |
 | `41400014` | Strife Tacet Core |
 | `41400024` | Thundering Tacet Core |
@@ -309,104 +271,30 @@
 | `42200027` | Supersonic Solvent Recipe |
 | `42200028` | String Solvent Recipe |
 | `42200029` | Drummer Solvent Recipe |
+| `42200030` | Potion No.5 Recipe |
 | `42200031` | Morale Tablets Recipe |
 | `42200032` | Harmony Tablets Recipe |
 | `42200033` | Passion Tablets Recipe |
 | `42200034` | Vigor Tablets Recipe |
-| `42300010` | Lotus Seeds |
-| `42300020` | Climbing Fig |
-| `42300030` | Iris |
-| `42300040` | Terraspawn Fungus |
-| `42300050` | Lanternberry |
-| `42300060` | Pecok Flower |
-| `42300070` | Belle Poppy |
-| `42300080` | Coriolus |
-| `42300090` | Wintry Bell |
-| `42300100` | Violet Coral |
-| `42300110` | Bittberry |
-| `42300120` | Pavo Plum |
-| `42310010` | Pearl Leaf |
-| `42310020` | Dewvetch |
-| `42310030` | Noctemint |
-| `42310040` | Honeysuckle |
-| `42310050` | Perilla |
-| `42310060` | Angelica |
-| `42310070` | Lemongrass |
-| `42310080` | Erodorchid |
-| `42310090` | Waterlamp |
-| `42310100` | Bunnywort |
-| `42310110` | Caltrop |
-| `42310120` | Chromeshell |
-| `42310130` | Dripsnail |
-| `42310140` | Viola |
-| `42310150` | Cliffrecluse |
-| `42310160` | Umbragricus |
-| `42310170` | Gemberry |
-| `42310180` | Edodes |
-| `42310190` | Gloom Slough |
-| `42310200` | Pavo Plum |
-| `42310210` | Loong's Pearl |
-| `42310220` | Silver Lotus |
-| `42310230` | Nova |
-| `42310240` | Sea Flytrap |
 | `42400010` | Fowl Meat |
 | `42400020` | Feather |
-| `42400030` | Raw Meat |
-| `42400070` | Phoenix Butterfly |
-| `42400080` | Red Feather Butterfly |
-| `42400090` | Blue Feather Butterfly |
-| `42400100` | Chrysopa |
-| `42400110` | Golden-ringed Dragonfly |
-| `42400120` | Fish |
-| `42400130` | Silver-Banded Lizard |
-| `42400140` | Azure Lizard |
-| `42400150` | Green Pit Lizard |
-| `42400160` | Black-Striped Frog |
-| `42400170` | Goldenback Frog |
-| `42500010` | Scarletthorn |
-| `42500020` | Lampylumen |
-| `42500030` | Indigoite |
-| `42500040` | Floramber |
 | `42500050` | Boost Part |
 | `42500060` | Echo Frequency Chip |
 | `42500070` | Standard Weapon Mold |
 | `42500080` | Gilded Ginkgo |
-| `42500090` | Fluorite |
 | `42500100` | Skyhunter's Feather |
-| `42600010` | Bird Egg |
 | `42600020` | Hearty Supper |
 | `42600021` | Blue-Spotted Giant Fish |
-| `42600022` | Core of  Oath |
+| `42600022` | Core of Oath |
 | `42601010` | Bay Leaf |
 | `42601020` | Thief's Talon |
 | `42601030` | Animal Fat |
 | `42601040` | Sea Bunny Meat |
 | `42601050` | Fur |
-| `42601060` | Goldcrest Scarab |
-| `42601070` | Heliobane Fungia |
-| `42601080` | Bell Crab |
-| `42601090` | Mastic Nuvola |
-| `42601100` | Sunflare Everlasting |
-| `42601110` | Viscum Berry |
 | `42601120` | Cassia Bud |
-| `42601130` | Felicitous Olives |
-| `42601140` | Golden Fleece |
-| `42601150` | Sword Acorus |
-| `42601160` | Firecracker Jewelweed |
-| `42601170` | Seaside Cendrelis |
-| `42601180` | Resonant Calcite |
-| `42601190` | Fool's Gold |
-| `42601200` | Oaknut |
-| `42601210` | Amber Halite |
-| `42601220` | Bamboo Iris |
-| `42601230` | Bloodleaf Viburnum |
-| `42601240` | Abyss Luminary |
 | `42601250` | "Afterlife" |
 | `42601260` | Shrimp Meat |
 | `42601270` | Titanhorn |
-| `42601280` | Stone Rose |
-| `42601290` | Sliverglow Bloom |
-| `42601300` | Luminous Calendula |
 | `43010001` | Basic Resonance Potion |
 | `43010002` | Medium Resonance Potion |
 | `43010003` | Advanced Resonance Potion |
@@ -435,13 +323,7 @@
 | `43020052` | Cadence Bud |
 | `43020053` | Cadence Leaf |
 | `43020054` | Cadence Blossom |
-| `44010014` | An error happened. Please contact Customer Service |
-| `44010015` | An error happened. Please contact Customer Service |
-| `44010016` | An error happened. Please contact Customer Service |
-| `44010017` | An error happened. Please contact Customer Service |
-| `44010018` | An error happened. Please contact Customer Service |
 | `44010025` | Wood-textured Shard |
-| `44010026` | An error happened. Please contact Customer Service |
 | `44010027` | test/Universal Echo |
 | `44010028` | test/Golden Universal Echo |
 | `44010031` | Monnaie |
@@ -451,7 +333,6 @@
 | `44010044` | Legend of Drunken Hero Crafting Recipe |
 | `44010045` | Waltz in Masquerade Crafting Recipe |
 | `44010046` | Call of the Abyss Crafting Recipe |
-| `50000031` | An error occurred. Please contact our Customer Service for assistance |
 | `50000032` | Lord Echo Blind Box |
 | `50000033` | wind tagEcho blind box |
 | `50000034` | fire tagEcho blind box |
@@ -511,24 +392,11 @@
 | `50000201` | Originite Weapon Supply Chest |
 | `50000202` | Poetry and Paean Weapon Chest |
 | `50000203` | Pioneer Podcast Supply Pack |
+| `50000204` | Pioneer Podcast Supply Pack II |
 | `50000205` | Pioneer Podcast Syntonization Chest |
-| `50001092` | Morphable Echo - Frosty Resolve |
-| `50001093` | Morphable Echo - Eternal Radiance |
-| `50001094` | Morphable Echo - Midnight Veil |
-| `50001095` | Morphable Echo - Empyrean Anthem |
-| `50001096` | Morphable Echo - Tidebreaking Courage |
-| `50001097` | Morphable Echo - Frosty Resolve |
-| `50001098` | Morphable Echo - Eternal Radiance |
-| `50001099` | Morphable Echo - Midnight Veil |
-| `50001100` | Morphable Echo - Empyrean Anthem |
-| `50001101` | Morphable Echo - Tidebreaking Courage |
 | `50001102` | Malleable Elite Class Echo III |
 | `50001103` | Malleable Elite Class Echo IV |
 | `50001104` | Malleable Elite Class Echo - Ragunna |
-| `50001105` | Molded Echo - Crimson Curtain Call I |
-| `50001106` | Molded Echo - Crimson Curtain Call II |
-| `50001107` | Molded Echo - Crimson Curtain Call I |
-| `50001108` | Molded Echo - Crimson Curtain Call II |
 | `50001109` | Unborn Echoes I |
 | `50001201` | Malleable Elite Class Echo V |
 | `50001202` | Malleable Elite Class Echo VI |
@@ -567,7 +435,6 @@
 | `70010010` | Soil Sample |
 | `70010011` | Biological Sample |
 | `70010012` | Locked Box |
-| `70010013` | Jiaping's Diary |
 | `70010014` | Qingru's Reward |
 | `70010015` | Metal Key |
 | `70010016` | Special Waterlamp |
@@ -585,7 +452,6 @@
 | `70010029` | Chixia's father's diary |
 | `70010030` | Worn-out Box |
 | `70010031` | Exiles' Weapon |
-| `70010033` | Court of Savantae's Data Chip |
 | `70010036` | Suspicious Audio Sound Material |
 | `70010037` | Qiongxue's Original Manuscript |
 | `70010038` | "Fire in the Wilderness" Excerpt |
@@ -596,14 +462,12 @@
 | `70010043` | Universal repair box |
 | `70010048` | Sound catcher |
 | `70010049` | Recorder |
-| `70010050` | Records |
 | `70010051` | Photo of the Snow Crane |
 | `70010052` | Wooden training sword |
 | `70010053` | Primitive tide stone |
 | `70010054` | Survival code |
 | `70010055` | Cruising Drake's delivery box |
 | `70010056` | Tacetite ore |
-| `70010057` | "Dream Return Song III: Stone Leaf Tears" |
 | `70010058` | Dropped key |
 | `70010059` | Crystallized Leaf |
 | `70010060` | Philosophical Notes |
@@ -616,25 +480,17 @@
 | `70010069` | Obscure Recipe |
 | `70010070` | Mahe Special Ingredient Pack |
 | `70010071` | Koko's special "Luohan Clearwater" |
-| `70010072` | The Second Coming of Solaris in-game redemption code. |
-| `70010073` | The Second Coming of Solaris in-game redemption code. |
 | `70010074` | Familiar-looking Large Fish |
 | `70010075` | Helm Village Lighthouse Key |
-| `70010076` | Titanium Mackerel |
 | `70010077` | Reyes Treasure Map Fragment |
 | `70010078` | Pequod Blueprint: Basic |
 | `70010079` | Pequod Blueprint: Advanced |
-| `70010080` | Ahab's Diary |
 | `70010081` | Nannerl's Bottle |
-| `70010082` | "Sweet Puff" |
 | `70010084` | Fresh Fish |
 | `70010085` | Special Every Flavor Bell-less Crab |
 | `70010086` | Mysterious Complete Treasure Map |
 | `70050001` | Tacet Field Geological Data |
 | `70050002` | Active Tacetite Sample |
-| `70050003` | Delivery Box |
-| `70050004` | Delivery Box |
-| `70050005` | Delivery Box |
 | `70050006` | Lost Key |
 | `70050007` | Remaining Key |
 | `70050008` | Guide Crystal |
@@ -645,7 +501,6 @@
 | `70050015` | Robot Battery Pack |
 | `70050016` | Robot Engine |
 | `70050017` | Driver's Recording Card |
-| `70050018` | Explosive Charge |
 | `70050019` | Seaside Arena Access Card |
 | `70050020` | Badge of Courage |
 | `70050021` | Badge of Speed |
@@ -653,20 +508,17 @@
 | `70050023` | Jinzhou Sunrise Photo |
 | `70050024` | Record Fragment |
 | `70050025` | Sheet Music Fragment |
-| `70050027` | Investigation Report on the Quick-Access Portals on the Black Shores |
 | `70050028` | Data Log of Black Shores Staff Forum |
 | `70050040` | Sword of Atrocity |
 | `70050041` | Sword of Greed |
 | `70050042` | Sword of Ignorance |
 | `70050043` | Sword of Vanity |
-| `70050044` | Sword of Cowardice |
 | `70050045` | Crushed Candy |
 | `70050046` | Innocent Dreams |
 | `70050047` | Montelli Clearance Module - Level I |
 | `70050048` | Montelli Clearance Module - Level II |
 | `70050049` | Montelli Clearance Module - Level III |
 | `70050050` | Ripples of Serene Dreams |
-| `70050051` | Stake of Imbalance |
 | `70050052` | Porto-Veno's Badge |
 | `70050053` | <i>Tower</i> |
 | `70050054` | "Wishes Under a Clear Sky" |
@@ -678,22 +530,10 @@
 | `70050060` | "Messenger of Deep Dreams" |
 | `70050061` | Eerie Sketchbook |
 | `70050062` | Repaired Key |
-| `70050063` | Above the Stars |
 | `70050064` | "Blazing Claw" |
-| `70050065` | The Meditating Blessed Maiden |
 | `70050070` | Samousas' Treasure |
-| `70050071` | Fisalia Knight's Letter |
-| `70050103` | Delivery Box |
 | `70060001` | Old Booklet |
-| `70060002` | Old Sketch |
 | `70060003` | Dried Flower |
-| `70060004` | Please contact our Customer Service for assistance |
-| `70060005` | Power System Notes |
-| `70060010` | Sound Emulator Repair Tool |
-| `70060011` | Rusty Data Chip |
-| `70060012` | A Photograph Stained with Blood |
-| `70060013` | A Photograph Covered with Scratches |
-| `70060014` | A Brand New Photograph |
 | `70060015` | The Nimbus Chorale: Soil of Abundance |
 | `70060016` | The Nimbus Chorale: Crystal Sky |
 | `70060017` | The Nimbus Chorale: Order of Nature |
@@ -704,37 +544,19 @@
 | `70120004` | Modunasha |
 | `70120005` | "The Modunasha" |
 | `70120007` | The Forgotten Blake Bloom |
-| `70120008` | Tattered Photos |
-| `70120009` | Tattered Photos |
 | `70120010` | Lady Flora's Bracelet |
 | `70120011` | Her Bracelet |
 | `70130001` | Jiyan copy prop 1 |
 | `70130002` | Temporary Team Photo |
-| `70130014` | New Year Theater Photo |
-| `70130015` | New Year Theater Photo |
-| `70130016` | Picture of the First Cubie Derby |
-| `70139300` | Grand Library Route Map |
 | `70139301` | Wooden Plaque: Left |
 | `70139302` | Wooden Plaque: Right |
-| `70139303` | Restored Wooden Plaque |
 | `70139304` | A Diary |
 | `70139305` | Black Fruit |
-| `70139306` | Mangosteen |
-| `70139307` | Sugar Pearl |
-| `70139308` | Sugar Pearl |
 | `70139309` | Small Device |
-| `70139310` | Sundial |
 | `70139311` | The Unlocked Sundial |
-| `70139312` | Leaf |
 | `70139313` | Leaf affected by "Waveworn" |
 | `70139314` | Candy |
-| `70139315` | Archive: Tacet Discord |
-| `70139316` | Archive: Huaxu Academy, Jinzhou Campus |
-| `70139317` | Archive: Sugar Pearl Vaccine and Tacet Discord Outbreak |
-| `70139318` | Archive: "The First Resonator" |
 | `70139319` | Yellowed Sketch |
-| `70139320` | Peculiar Blake Bloom |
-| `70139323` | Chrono Sign |
 | `70139324` | Stories of Guqin |
 | `70139325` | Cipher Key |
 | `70139326` | Changli's Letter |
@@ -743,11 +565,8 @@
 | `70139329` | Glazed Lamp |
 | `70139330` | Pavo Plum Sample |
 | `70139331` | Activated Chrono Sign |
-| `70140001` | Zoom Camera |
-| `70140002` | Ultrasonic Pulse Chip |
 | `70140004` | Trace Scale |
 | `70140011` | A player that contains Qianxin's singing voice. |
-| `70140012` | Stellar Matrix's Core |
 | `70140013` | "Starlight" |
 | `70140014` | KU-Money's Personal Collection |
 | `70140015` | Model HL-1 |
@@ -756,19 +575,11 @@
 | `70140018` | Haultir |
 | `70140021` | Skyshaker |
 | `70140022` | The Present |
-| `70140026` | Serenity of Xiehua Village |
-| `70140027` | Carlotta's "Gem" |
 | `70140028` | Invitation with a Fragrance |
 | `70140029` | <i>The Martyrdom of Blessed Fleurdelys - Act III</i> (Unfinished) |
 | `70140030` | Lycoris with Ominous Aura |
-| `70140031` | Cloudcaster's Handle |
-| `70140032` | Cloudcaster's Base |
-| `70140033` | Cloudcaster's Resonance Unit |
 | `70140034` | Codex of the Deep: Preface (137th Edition) |
 | `70140035` | Unfettered Dove through Day and Night |
-| `70140039` | Perfect Curtain Call |
-| `70140040` | Perfect Curtain Call |
-| `70140041` | Beacon of the Past |
 | `70140050` | Phaom Whistle |
 | `70140080` | Crimson Baton |
 | `70140081` | Wilting Reverberation |
@@ -779,17 +590,6 @@
 | `70500002` | Key to the Rock Ruins |
 | `70500003` | A beautiful necklace. |
 | `70500004` | The gem on the necklace. |
-| `71010001` | Dim Forest Ecological Survey 1. |
-| `71010002` | Dim Forest Ecological Survey 2. |
-| `71010003` | Dim Forest Ecological Survey III |
-| `71010004` | Dim Forest Ecological Survey IV |
-| `71010005` | Dim Forest Ecological Survey V |
-| `71010006` | Dim Forest Ecological Survey Summary |
-| `71020001` | Battlefield Record 6010: Autumn |
-| `71020002` | Battlefield Record 6010: 91.7 Highland Contest |
-| `71020003` | Battlefield Record 6010: Reorganization |
-| `71020004` | Battlefield Record 6010: Setting Off Again |
-| `71020005` | Battlefield Record 6010: This Might Be the Last |
 | `71020006` | Time Footnote: IX |
 | `71020007` | Time Footnote: X |
 | `71020008` | Time Footnote: XI |
@@ -809,19 +609,14 @@
 | `71220004` | Bell of Resonance |
 | `71220005` | Plushie Village Restoration Log: II |
 | `71220006` | Plushie Village Restoration Log: III |
-| `71250001` | "Script" |
 | `71250002` | Champion's Medal |
-| `71250003` | Her Oath |
-| `71250004` | Her Wishes |
 | `71250005` | Copper Mirror of Truth |
 | `71260001` | Orchestration Movement I |
 | `71260002` | Orchestration Movement II |
 | `71260003` | Orchestration Movement III |
 | `71260004` | Sacred Salt |
-| `71260005` | Pilgrim's Scriptures |
 | `71270001` | Petals for Rosebearer |
 | `71270002` | Pure Dark Tide Frequency |
-| `71270003` | Peso's Challenge Note |
 | `71270004` | A Debt Note |
 | `71270005` | A Reply Letter |
 | `71270006` | An Unsent Note |
@@ -829,14 +624,8 @@
 | `71270008` | Anchor Stone Fragment |
 | `71270009` | Imperator's Relic |
 | `71270010` | Invitation Letter from Ephor's Palace |
-| `71270011` | Lunarum Bracelet |
 | `71270012` | Old Anchor Stone |
-| `71270013` | Together in the Petal Rain |
-| `71270014` | Together in the Petal Rain |
-| `71270015` | Lunarum Bracelet |
-| `71280001` | Cloth of the Unyielding |
 | `71280002` | "Dawn of Home" |
-| `71320001` | Loneliness of the Deep Sea |
 | `71500001` | Glacio Eroded Coin |
 | `71500002` | Fusion Eroded Coin |
 | `71500003` | Electro Eroded Coin |
@@ -880,12 +669,9 @@
 | `71510202` | Fragment of a Mysterious Scripture: Chapter Two |
 | `71510203` | Fragment of a Mysterious Scripture: Chapter Three |
 | `71510204` | Rusty Iron Case |
-| `71510301` | Melody Box |
 | `71550001` | Amber Key |
 | `71550002` | Captain's Chart |
 | `71550003` | Half A Lucky Coin |
-| `71550004` | Lucky Coin |
-| `71550005` | Potion Vial |
 | `71550010` | Fortified Flour |
 | `71550011` | Margherita's Gift of Milk |
 | `71550012` | Margherita's Gift of Flour |
@@ -899,15 +685,7 @@
 | `72010005` | Abandoned Data Chip from Whining Aix's Mire |
 | `72010006` | Torn pages from Desorock Highland |
 | `72010007` | Abandoned Data Chip from Tiger's Maw |
-| `72010008` | Aircraft Accident Report |
-| `72010009` | As the Express through the Rain |
-| `72010010` | Jinzhou Folklore Journal |
-| `72010011` | Study on Mythical Beasts in Huanglong |
-| `72010012` | Lo, Lo, Lollo Logistics! |
-| `72010013` | Untitled Family Letters |
-| `72010014` | Strange Messages |
 | `72010015` | Dim Forest Data |
-| `72010016` | Dim Forest Survey Team Diary |
 | `72010017` | Torn pages from Averardo Vault |
 | `72010018` | Torn pages from Egla Town |
 | `72010019` | Torn pages from Penitent's End |
@@ -916,25 +694,12 @@
 | `72010022` | Torn pages from the Fagaceae Peninsula |
 | `72010023` | Torn pages from Ragunna City |
 | `72010024` | Torn pages from Nimbus Sanctum |
-| `72010025` | <i>Averardo Vault Brochure</i> |
 | `72010026` | <i>Lonely SOL-3: The Complete Guide to Ragunna</i> |
-| `72010027` | <i>Former Privy Councilor's Notes</i> |
-| `72010028` | <i>A Transgressor's Transcript</i> |
-| `72010029` | <i>Witchcraft, Spies, and Complaints</i> |
-| `72010030` | <i>The Codex of Holy Rituals</i> |
-| `72010031` | <i>Essays on the Ragunnesi Drama</i> |
-| `72010032` | <i>Voyage Logbook</i> |
-| `72010033` | Torn Pages from Avinoleum |
-| `72010034` | Titular Repository Memoir |
 | `72010035` | Token of Radiance |
 | `72010036` | Prestige Point |
-| `72010037` | Duel Resonance |
-| `72010038` | Fame Flag |
-| `80000000` | Jinzhou Skewers |
 | `80000001` | Stuffed Flatbread |
 | `80000002` | Perilla Salad |
 | `80000003` | Spicy Pulled Chicken |
-| `80000004` | Loong Whiskers Crisp |
 | `80000005` | Food Ration Bar |
 | `80000006` | Refreshment Tea |
 | `80000007` | Salted Milk Tea |
@@ -942,7 +707,6 @@
 | `80000009` | Shuyun Herbal Tea |
 | `80000010` | Poached Chicken |
 | `80000011` | Spicy Meat Slices |
-| `80000012` | Loong Bun |
 | `80000013` | Iron Shovel Edodes |
 | `80000014` | Jinzhou Stew |
 | `80000015` | Candied Caltrops |
@@ -966,7 +730,6 @@
 | `80000033` | Lotus Pastry |
 | `80000034` | Spicy Meat with Pavo Plums |
 | `80000035` | Huanglong Omelette |
-| `80000036` | Plumpcake |
 | `80000037` | Moon Pearl |
 | `80000038` | Moon Brew |
 | `80000039` | Fisher's Chowder |
@@ -991,7 +754,6 @@
 | `80000058` | Saltimbocca |
 | `80000059` | Glory Roast Platter |
 | `80000060` | Frosted Cream Blizzard |
-| `80000061` | Solis |
 | `80000062` | Bamboo Iris Crisps |
 | `80000063` | Seasalt Popcorn |
 | `80000064` | Bubbly Buddy |
@@ -1000,7 +762,6 @@
 | `80001000` | Liondance Companion |
 | `80001001` | Sweet Stuffed Flatbread |
 | `80001002` | Iced Perilla |
-| `80001004` | Silky Reveries |
 | `80001005` | Ration Bar |
 | `80001007` | Iced Grape Tea |
 | `80001008` | Sanqing Tea |
@@ -1030,12 +791,10 @@
 | `80001051` | Pasta Bocadillo |
 | `80001052` | Purity Strength |
 | `80001057` | Redcurrant Tart |
-| `80001061` | Heartpour |
 | `80001065` | Sweetened Olives |
 | `80001066` | Sweetleaf Blooming Bread |
 | `80004001` | Supermassive Birthday Cake (2025) |
 | `80004002` | The Stars that Shine For You |
-| `80004003` | Happie Birthdaie! |
 | `80010000` | Jinzhou Skewers Recipe |
 | `80010001` | Stuffed Flatbread Recipe |
 | `80010002` | Perilla Salad Recipe |
@@ -1067,11 +826,9 @@
 | `80010028` | Chili Sauce Tofu Recipe |
 | `80010029` | Morri Pot Recipe |
 | `80010030` | Stuffed Tofu Recipe |
-| `80010032` | A recipe that details how to make Happiness Tea. |
 | `80010033` | Recipe: Lotus Pastry |
 | `80010034` | Recipe: Spicy Meat with Pavo Plums |
 | `80010035` | Huanglong Omelette Recipe |
-| `80010036` | Plumpcake Recipe |
 | `80010037` | Moon Pearl Recipe |
 | `80010038` | Moon Brew Recipe |
 | `80010039` | Fisher's Chowder Recipe |
@@ -1114,13 +871,9 @@
 | `80021005` | Strong Fluid Stabilizer |
 | `80021006` | Premium Incense Oil |
 | `80021007` | Premium Gold Incense Oil |
-| `80030000` | Intimacy |
-| `80030001` | Intimacy |
-| `80030002` | Intimacy |
 | `80040000` | Revival Elixir Combination |
 | `80050000` | Flour |
 | `80050001` | Cooking oil |
-| `80050002` | Chili |
 | `80050003` | Sugar |
 | `80050004` | Tea |
 | `80050005` | Milk |
@@ -1131,136 +884,12 @@
 | `80050010` | Vinegar |
 | `80052010` | Echo component Synthesis recipe |
 | `80052011` | Waypoint Module Synthesis Recipe |
-| `80053000` | Please contact our Customer Service for assistance |
-| `80053001` | Please contact our Customer Service for assistance |
-| `80053002` | Please contact our Customer Service for assistance |
-| `80053003` | Please contact our Customer Service for assistance |
-| `80053004` | Please contact our Customer Service for assistance |
-| `80053005` | Please contact our Customer Service for assistance |
-| `80053006` | Please contact our Customer Service for assistance |
-| `80053007` | Please contact our Customer Service for assistance |
-| `80053008` | Please contact our Customer Service for assistance |
-| `80053009` | Please contact our Customer Service for assistance |
-| `80110101` | Saving Light |
-| `80110102` | Lifted Clouds of Eons |
-| `80110103` | In Three Days' Time |
-| `80110104` | Pastures Like Old Times |
-| `80110105` | Wilderness Wanderer |
-| `80110106` | Vast Lush Grounds |
-| `80110107` | Prophet's Message |
-| `80110108` | Rendezvous in the Mountains |
-| `80110109` | Spring in Full Swing |
-| `80110110` | Rowing Towards Firmament |
-| `80110111` | Daybreak Arises |
-| `80110112` | Daybreak Descends |
-| `80110201` | Between the Waves |
-| `80110202` | De Anima / On the Soul |
-| `80110203` | Solitary Boat on a Long Voyage |
-| `80110204` | De Caelo / On the Heavens |
-| `80110205` | Astrum Unicum / Stars, Rebirth, and You |
-| `80110206` | The End of a World |
-| `80110207` | Echoes of Destruction |
-| `80110208` | De Generatione et Corruptione / On Generation and Corruption |
-| `80110209` | Song of KU-Roro |
-| `80110210` | De Sophisticis Elenchis / Sophistical Refutations |
-| `80110211` | Refuge of the Survivors |
-| `80110212` | All the Rediscovered Tales |
-| `80110213` | A Glance Backward |
-| `80110214` | Dancer amid the Blooms |
-| `80110215` | Fickleness of Life |
-| `80110216` | Seed of Purity |
-| `80110217` | Vortex |
-| `80110218` | When the Camellia Bleeds |
-| `80110219` | Before I Wither |
-| `80110220` | Fleeting Sorrow |
-| `80110221` | Everlasting Longing |
-| `80110301` | City Bathed in Sea Breeze |
-| `80110302` | Wind-kissed Haven |
-| `80110303` | A Dream Soaked in Mist |
-| `80110304` | The Idyllic Refuge |
-| `80110305` | Where Wind Whispers |
-| `80110306` | The Midnight Elegy |
-| `80110307` | Waves Sing Goodnight |
-| `80110308` | Save Me From the Tides of Mundanity |
-| `80110309` | The Day of Final Rest |
-| `80110310` | Curtains Up for Reveries |
-| `80110311` | In the Name of Humanity |
-| `80110312` | Lost on the Pilgrim's Path |
-| `80110313` | When Night Rests on the Cliffs |
-| `80110314` | Wrecked and Stranded |
-| `80110315` | As the Divine Hath Spoken |
-| `80110316` | Cloudcasting Project |
-| `80110317` | The Art of Precision |
-| `80110318` | Where Oracles Are No Longer Heard |
-| `80110319` | Gondola's Journey |
-| `80110320` | The Nimbus Chorale |
-| `80110321` | Song of the Fools |
-| `80110322` | As Night Sinks into Abyss |
-| `80110323` | Efficiency is Wealth |
-| `80110324` | Merry Plushie Friends |
-| `80110325` | Dancing Through Fantasies |
-| `80110326` | Serenade Carried by the Waves |
-| `80110327` | A Journey Concluded in the Tides |
-| `80110328` | Homebound Hour |
-| `80110329` | Aria of Absolution |
-| `80110330` | A Fairy Tale |
+| `80100000` | Dream Fragments |
+| `80100003` | Memory Points |
+| `80100101` | "Tradable Dream" |
+| `80100102` | "Observer's Dice" |
 | `80110331` | The Flames That Thrive |
-| `80110332` | Sincerity Beneath the Mask |
 | `80110333` | Time Is Money |
-| `80110334` | Full Metal Alert! |
-| `80110335` | Entwined Footsteps |
-| `80110336` | Silence's Treasure |
-| `80110337` | Accusation of the Penitent |
-| `80110338` | Judgment upon the Guilty |
-| `80110401` | Saving Light |
-| `80110402` | Waking of a World |
-| `80110403` | Waking of a World |
-| `80110404` | Waking of a World |
-| `80110405` | Waking of a World |
-| `80110406` | Thawing Fates |
-| `80110407` | Thawing Fates |
-| `80110408` | Thawing Fates |
-| `80110409` | Thawing Fates |
-| `80110410` | By Moon's Grace |
-| `80110411` | An Unfinished Song |
-| `80110412` | An Unfinished Song |
-| `80110413` | An Unfinished Song |
-| `80110414` | An Unfinished Song |
-| `80110415` | A Million Possibilities |
-| `80110416` | A Million Possibilities |
-| `80110418` | With Glory I Shall Fall |
-| `80110419` | Chains of Oath, Echoes of Promise |
-| `80110420` | Rippling Starlight |
-| `80110421` | Suspended Twilight |
-| `80110422` | Moonlit Solitude |
-| `80110423` | Lost at Sea |
-| `80110426` | Husk of Broken Dreams |
-| `80110427` | Sunken Elegy |
-| `80110428` | Radiance Across Sea and Sky |
-| `80110430` | O Sun, Witness My Name |
-| `80110431` | Bury Me in Sunlight |
-| `80110432` | Eternity in a Breath |
-| `80110433` | In Moments Does Moon Persist |
-| `80110434` | Windswept Watch |
-| `80110435` | Funeral of the Fractured Realm |
-| `80110436` | Witherland of the Nameless |
-| `80110437` | If We Could Thread the Fate |
-| `80110438` | Return to Asphodel's Embrace |
-| `80110501` | The Second Departure |
-| `80110502` | Behind Gateway Thirty Three |
-| `80110503` | Inside Pipe Sixty Six |
-| `80110504` | Drowning Five Times Over |
-| `80110505` | Seven Pools of Evil |
-| `80110506` | Risen After Eight Burials |
-| `80110507` | Beyond Ruin Nighty Nine |
-| `80110508` | Phantoms of Ten Towers |
-| `80110509` | Never-ending Night |
-| `80110520` | Heavy is the Desire |
-| `80110601` | Ode to the Nameless Martyr |
-| `80110602` | The Ballad of Septimont |
-| `80110603` | Whispers of Stars |
-| `80110604` | Anthem of the Unbroken |
-| `80110605` | A Blazing Star's Soliloquy |
 | `80130000` | Pioneer of the Virtual Frontier |
 | `80200001` | Special Cube Cookie |
 | `80200002` | 1st Anniversary Coin |
@@ -1272,8 +901,31 @@
 | `80200008` | Unanalyzed Awakening Module I |
 | `80200009` | Unanalyzed Awakening Module II |
 | `80200010` | Unanalyzed Awakening Module |
-| `80300001` | Sim Ingot |
 | `80300002` | "TD Slayer" Coupon |
 | `80300003` | Rating Star |
 | `80300004` | Sim Credits |
+| `83100011` | The Magistrate's Fortune Stick I |
+| `83100021` | Warm Marble I |
+| `83100031` | Puppy Cookie I |
+| `83100041` | Unknown Matter I |
+| `83100051` | Theme Park Annual Pass I |
+| `83100061` | Orange Slice I |
+| `83100071` | Lollipop I |
+| `83100081` | Some Sort of Sweets I |
+| `83100091` | A Bottle of "Air" I |
+| `83100101` | Spare Suits I |
+| `83100111` | Fish Head, Fish Tail, Fish Bones I |
+| `83100121` | Broken Staff I |
+| `83200001` | Stirred Heart |
+| `83200002` | Refreshing Trouble |
+| `83200003` | He Is Legend |
+| `83200004` | Old Film |
+| `83200005` | When Spring Arrives |
+| `83200006` | Rosy Hue |
+| `83200007` | Sotto Voce |
+| `83200008` | The Password Is Family |
+| `83200009` | Full Preparation |
+| `83200010` | Afternoon Tea Time |
+| `83200011` | The Maiden's Sword Techniques |
+| `83200012` | T-this Is So Deviled! |
 | `90000001` | Resonator Experience |
