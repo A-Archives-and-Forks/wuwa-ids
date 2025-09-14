@@ -204,3 +204,16 @@
 | `350000260` | Phantom: Nightmare Mourning Aix |
 | `350000270` | Phantom: Fallacy of No Return |
 | `350000280` | Phantom: Kerasaur |
+| `350000290` | Stay tuned |
+| `360000010` | Jinhsi Cube |
+| `360000020` | Changli Cube |
+| `360000030` | Calcharo Cube |
+| `360000040` | Shorekeeper Cube |
+| `360000050` | Camellya Cube |
+| `360000060` | Carlotta Cube |
+| `360000070` | Roccia Cube |
+| `360000080` | Brant Cube |
+| `360000090` | Cantarella Cube |
+| `360000100` | Zani Cube |
+| `360000110` | Cartethyia Cube |
+| `360000120` | Phoebe Cube |
