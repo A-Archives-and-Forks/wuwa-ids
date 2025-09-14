@@ -9,4 +9,4 @@
 - [Dungeons](dungeons.md)
 - [Countries](countries.md)
 
-> Game Version 2.6
+> Game Version 2.7
