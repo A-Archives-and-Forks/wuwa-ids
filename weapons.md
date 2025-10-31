@@ -18,6 +18,7 @@
 | `21010046` | Thunderflare Dominion |
 | `21010053` | Guardian Broadblade |
 | `21010054` | T4-5Jinzhou+ Series Greatsword |
+| `21010056` | Kumokiri |
 | `21010063` | Beguiling Melody |
 | `21010064` | Helios Cleaver |
 | `21010074` | Autumntrace |

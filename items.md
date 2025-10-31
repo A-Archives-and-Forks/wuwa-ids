@@ -94,6 +94,8 @@
 | `51031` | Reunion's Shell Credit Aid |
 | `51032` | Champion's Monthly Aid |
 | `51033` | New Voyage Radiant Heavypack |
+| `51034` | New Voyage Radiant Lightpack |
+| `51035` | Champion's Battlesong Collection |
 | `52001` | Awakening Bundle (For Pre-Sales) |
 | `52002` | Awakening Bundle |
 | `52003` | Adventurer's Starter Pack |
@@ -115,6 +117,7 @@
 | `10001205` | Roccia's Waveband |
 | `10001206` | Brant's Waveband |
 | `10001207` | Lupa's Waveband |
+| `10001208` | Galbrena's Waveband |
 | `10001301` | Calcharo's Waveband |
 | `10001302` | Yinlin's Waveband |
 | `10001303` | Yuanwu's Waveband |
@@ -128,6 +131,7 @@
 | `10001407` | Ciaccona's Waveband |
 | `10001409` | Cartethyia's Waveband |
 | `10001410` | Iuno's Waveband |
+| `10001411` | Qiuyuan's Waveband |
 | `10001503` | Verina's Waveband |
 | `10001504` | Lumi's Waveband |
 | `10001505` | The Shorekeeper's Waveband |
@@ -202,6 +206,7 @@
 | `41400224` | Truth in Lies |
 | `41400234` | Blighted Crown of Puppet King |
 | `41400244` | Abyssal Husk |
+| `41400254` | Curse of the Abyss |
 | `42100001` | Fusion Resistance Spray |
 | `42100002` | Aero Resistance Spray |
 | `42100003` | Electro Resistance Spray |
@@ -243,6 +248,7 @@
 | `42100039` | Glacio-resistant Spray |
 | `42100040` | Spectro-resistant Spray |
 | `42100041` | Havoc-resistant Spray |
+| `42100042` | Abyssal Solvent |
 | `42200001` | Spectro Resistance Spray Recipe |
 | `42200002` | Havoc Resistance Spray Recipe |
 | `42200003` | Fusion Resistance Spray Recipe |
@@ -276,6 +282,7 @@
 | `42200032` | Harmony Tablets Recipe |
 | `42200033` | Passion Tablets Recipe |
 | `42200034` | Vigor Tablets Recipe |
+| `42200042` | Abyssal Solvent Recipe |
 | `42400010` | Fowl Meat |
 | `42400020` | Feather |
 | `42500050` | Boost Part |
@@ -371,6 +378,7 @@
 | `50000108` | Podcast Advanced Supply Pack |
 | `50000109` | Podcast Premium Supply Pack |
 | `50000110` | Weekly Challenge Supply Pack |
+| `50000115` | Weekly Challenge Supply Pack II |
 | `50000164` | Pioneer Podcast Weapon Chest |
 | `50000165` | Pioneer Association Basic Supply |
 | `50000166` | Pioneer Association Medium Supply |
@@ -662,6 +670,7 @@
 | `71500048` | Gaze that Drowns in Dream |
 | `71500049` | Falling Star that Tears Fate Apart |
 | `71500051` | Haven that Gleams Elegantly |
+| `71500057` | A Question with Many Answers |
 | `71510101` | Rinascita Fishing Guidebook: Chapter One |
 | `71510102` | Rinascita Fishing Guidebook: Chapter Two |
 | `71510103` | Rinascita Fishing Guidebook: Chapter Three |
@@ -675,6 +684,7 @@
 | `71550010` | Fortified Flour |
 | `71550011` | Margherita's Gift of Milk |
 | `71550012` | Margherita's Gift of Flour |
+| `71580001` | Cartethyia's Pendant |
 | `71600001` | A Manuscript of Golden Anthem |
 | `71600002` | A Lithograph With the Sentinel's True Form |
 | `71600003` | Verses and Rhythms |
@@ -759,6 +769,7 @@
 | `80000064` | Bubbly Buddy |
 | `80000065` | Marinated Olives |
 | `80000066` | Blooming Bread |
+| `80000067` | Laurel Shrimp in Nimbus Reduction |
 | `80001000` | Liondance Companion |
 | `80001001` | Sweet Stuffed Flatbread |
 | `80001002` | Iced Perilla |
@@ -775,6 +786,7 @@
 | `80001023` | Lotus Seed Soup |
 | `80001024` | Smoked Pigeon |
 | `80001025` | Champion Hotpot |
+| `80001028` | Chongzhou Spicy Tofu |
 | `80001029` | Green Field Pot |
 | `80001032` | Misty Tea |
 | `80001033` | Spring Pastry |
@@ -791,6 +803,7 @@
 | `80001051` | Pasta Bocadillo |
 | `80001052` | Purity Strength |
 | `80001057` | Redcurrant Tart |
+| `80001060` | Super Doubleshot Shaved Ice Milkshake Deluxe |
 | `80001065` | Sweetened Olives |
 | `80001066` | Sweetleaf Blooming Bread |
 | `80004001` | Supermassive Birthday Cake (2025) |
@@ -859,6 +872,7 @@
 | `80010064` | Bubbly Buddy Recipe |
 | `80010065` | Marinated Olives Recipe |
 | `80010066` | Blooming Bread Recipe |
+| `80010067` | Laurel Shrimp in Nimbus Reduction Recipe |
 | `80020000` | Hot Pot Base |
 | `80020001` | Clear Soup |
 | `80020002` | Braising Sauce |
@@ -904,6 +918,9 @@
 | `80300002` | "TD Slayer" Coupon |
 | `80300003` | Rating Star |
 | `80300004` | Sim Credits |
+| `80400001` | Enhancement Module |
+| `80400002` | Simulation Data |
+| `80400003` | Knowledge Module |
 | `83100011` | The Magistrate's Fortune Stick I |
 | `83100021` | Warm Marble I |
 | `83100031` | Puppy Cookie I |

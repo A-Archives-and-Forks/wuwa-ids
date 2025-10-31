@@ -23,7 +23,7 @@
 | `310000190` | Sabyr Boar |
 | `310000200` | Excarat |
 | `310000210` | Baby Viridblaze Saurian |
-| `310000220` | Young Roseshroom |
+| `310000220` | Baby Roseshroom |
 | `310000230` | Exile |
 | `310000231` | Exile |
 | `310000232` | Exile |
@@ -80,11 +80,11 @@
 | `310000660` | Nightmare: Aero Predator |
 | `310000670` | Nightmare: Gulpuff |
 | `310000680` | Nightmare: Chirpuff |
-| `310000690` | Stay tuned |
-| `310000700` | Stay tuned |
-| `310000710` | Stay tuned |
-| `310000720` | Stay tuned |
-| `310000730` | Stay tuned |
+| `310000690` | Midnight Ranger |
+| `310000700` | Midnight Ranger |
+| `310000710` | Gang Member |
+| `310000720` | Nightmare: Baby Viridblaze Saurian |
+| `310000730` | Nightmare: Baby Roseshroom |
 | `320000010` | Stonewall Bracer |
 | `320000020` | Violet-Feathered Heron |
 | `320000030` | Cyan-Feathered Heron |
@@ -133,7 +133,7 @@
 | `320000440` | Corrosaurus |
 | `320000450` | Nightmare: Violet-Feathered Heron |
 | `320000460` | Nightmare: Cyan-Feathered Heron |
-| `320000470` | Stay tuned |
+| `320000470` | Nightmare: Viridblaze Saurian |
 | `330000010` | Tempest Mephis |
 | `330000020` | Inferno Rider |
 | `330000030` | Impermanence Heron |
@@ -141,7 +141,7 @@
 | `330000050` | Feilian Beringal |
 | `330000060` | Mourning Aix |
 | `330000070` | Fallacy of No Return |
-| `330000100` | Stay tuned |
+| `330000100` | Scar: Lightbane Reversal |
 | `330000110` | Lorelei |
 | `330000120` | Sentry Construct |
 | `330000130` | Dragon of Dirge |
@@ -156,7 +156,7 @@
 | `340000020` | Bell-Borne Geochelone |
 | `340000030` | Cetus the Tidebreaker |
 | `340000040` | Encore |
-| `340000050` | Stay tuned |
+| `340000050` | Scar: Aberrant Nightmare |
 | `340000060` | Mech Abomination |
 | `340000070` | Dreamless |
 | `340000080` | Thundering Mephis |
@@ -173,9 +173,9 @@
 | `340000160` | Nightmare: Hecate |
 | `340000170` | The False Sovereign |
 | `340000180` | Lady of the Sea |
-| `340000190` | Stay tuned |
-| `340000200` | Stay tuned |
-| `340000201` | Stay tuned |
+| `340000190` | Hecate |
+| `340000200` | Threnodian: Leviathan |
+| `340000201` | Reminiscence: Threnodian - Leviathan |
 | `350000010` | Phantom: Mourning Aix |
 | `350000020` | Phantom: Rocksteady Guardian |
 | `350000030` | Phantom: Hoartoise |
@@ -204,16 +204,16 @@
 | `350000260` | Phantom: Nightmare Mourning Aix |
 | `350000270` | Phantom: Fallacy of No Return |
 | `350000280` | Phantom: Kerasaur |
-| `350000290` | Stay tuned |
-| `360000010` | Jinhsi Cube |
-| `360000020` | Changli Cube |
-| `360000030` | Calcharo Cube |
-| `360000040` | Shorekeeper Cube |
-| `360000050` | Camellya Cube |
-| `360000060` | Carlotta Cube |
-| `360000070` | Roccia Cube |
-| `360000080` | Brant Cube |
-| `360000090` | Cantarella Cube |
-| `360000100` | Zani Cube |
-| `360000110` | Cartethyia Cube |
-| `360000120` | Phoebe Cube |
+| `350000290` | Phantom: Lioness of Glory |
+| `360000010` | Jinhsi |
+| `360000020` | Changli |
+| `360000030` | Calcharo |
+| `360000040` | Shorekeeper |
+| `360000050` | Camellya |
+| `360000060` | Carlotta |
+| `360000070` | Roccia |
+| `360000080` | Brant |
+| `360000090` | Cantarella |
+| `360000100` | Zani |
+| `360000110` | Cartethyia |
+| `360000120` | Phoebe |

@@ -70,6 +70,8 @@
 | `1504` | Warblade from Above |
 | `1505` | test Crownless 副本2 Rank |
 | `1514` | Crimson Finale |
+| `1518` | Plane of Dark Tide |
+| `1533` | Civilization Capsule |
 | `2001` | Narwhal Boss Battle |
 | `2021` | Weekly Challenge: Sinful Declension |
 | `2022` | Test Levels |

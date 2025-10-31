@@ -12,10 +12,12 @@
 | `1010` | Resurfaced Past |
 | `1501` | Chaotic Juncture: Spark |
 | `1514` | Final Stage |
+| `1518` | Dark Tide Conflux |
 | `2021` | Chaotic Juncture |
 | `2022` | The Fated Confrontation |
 | `2031` | Statue of the Crownless |
 | `2061` | The Wheel of Broken Fate |
+| `2071` | Cindernite Apocalypse |
 | `2513` | Shards of the Beyond |
 | `4006` | Training Decive |
 | `4021` | Phase Ascension |

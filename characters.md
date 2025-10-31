@@ -38,6 +38,7 @@
 | `1505` | Shorekeeper |
 | `1506` | Phoebe |
 | `1507` | Zani |
+| `1508` | Chisa |
 | `1601` | Taoqi |
 | `1602` | Danjin |
 | `1603` | Camellya |
