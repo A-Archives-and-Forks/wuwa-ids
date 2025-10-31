@@ -21,6 +21,7 @@
 | `1304` | Jinhsi |
 | `1305` | Xiangli Yao |
 | `1306` | Augusta |
+| `1307` | Buling |
 | `1402` | Yangyang |
 | `1403` | Aalto |
 | `1404` | Jiyan |
