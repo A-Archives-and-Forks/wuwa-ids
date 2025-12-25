@@ -9,4 +9,4 @@
 - [Dungeons](dungeons.md)
 - [Countries](countries.md)
 
-> Game Version 2.8
+> Game Version 3.0
