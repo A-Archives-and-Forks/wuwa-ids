@@ -6,3 +6,4 @@
 | `1` | Huanglong |
 | `2` | The Black Shores |
 | `3` | Rinascita |
+| `4` | Roya Frostlands |

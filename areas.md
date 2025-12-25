@@ -146,5 +146,52 @@
 | `36011` | Tideline Verge |
 | `36012` | Oak Hollow |
 | `36014` | Erosion Cavern |
+| `36021` | Sakura Pedway |
+| `36024` | Honami Convention Center |
+| `40002` | Sazanami Avenue |
+| `40003` | Shiawase Fountain Square |
+| `41004` | Stagnant Run |
+| `41005` | Rebirth Uplands |
+| `41008` | Mawburrow Desert |
+| `41009` | Giant's Gaze |
+| `41013` | Exospine Barrows |
+| `41014` | Emberfall Barrows |
+| `41015` | Riseway-Sundermere Corridor |
+| `41017` | Dawnsip Fjord |
+| `41019` | Soliseed Plains |
+| `41020` | Haldarheim |
+| `41021` | Solvein Canopy |
+| `41023` | Atuja Camp |
+| `41024` | Jetray Marsh |
+| `41025` | Jetrified Ridge |
+| `41026` | Ribcage Bends |
+| `41027` | Golden Spiral |
+| `41030` | Voidspawn Control Complex: Sector I |
+| `41031` | Voidspawn Control Complex: Sector II |
+| `41033` | Orbit Valley Pass |
+| `41034` | Roya Memorial Park |
+| `41035` | Department of Voidmatters |
+| `41036` | Department of Light Energy Sciences |
+| `41038` | Exo Genesis Labs |
+| `41040` | Living Commons |
+| `41041` | Department of Exostrider Engineering |
+| `41045` | Synchrolink Training Grounds |
+| `41046` | Express Transfer Station |
+| `41047` | The Solistree's Core |
+| `41048` | First Solistree - 1st Layer |
+| `41049` | First Solistree - 2nd Layer |
+| `41050` | First Solistree - 3rd Layer |
+| `41051` | Second Solistree - 1st Layer |
+| `41052` | Second Solistree - 2nd Layer |
+| `41053` | Second Solistree - 3rd Layer |
+| `41054` | Third Solistree - 1st Layer |
+| `41055` | Third Solistree - 2nd Layer |
+| `41056` | Fourth Solistree - 1st Layer |
+| `41057` | Fourth Solistree - 2nd Layer |
+| `41059` | Orbit Valley Pass - Main |
+| `41065` | Spacetrek Archive - Recreational Zone |
+| `41066` | Startorch Academy - Square |
+| `41067` | Startorch Academy - Teaching Zone |
+| `41068` | Startorch Academy - Freight Zone |
 | `1500001` | Invisible Walls for TD test cases |
 | `1500002` | 93-Invisible Walls for TD test cases |

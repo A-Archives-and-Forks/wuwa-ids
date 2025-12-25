@@ -19,12 +19,14 @@
 | `2061` | The Wheel of Broken Fate |
 | `2071` | Cindernite Apocalypse |
 | `2513` | Shards of the Beyond |
+| `2516` | Spacetrek Collective Research Institute |
 | `4006` | Training Decive |
 | `4021` | Phase Ascension |
 | `4901` | CE test |
 | `5001` | Training Projector |
 | `6002` | Parallel Perception |
 | `6003` | Major Forbidden Archive |
+| `8152` | Pioneer Training Ground |
 | `201000` | Misty Forest |
 | `202000` | Moonlit Groves |
 | `203000` | Marigold Woods |
@@ -35,3 +37,5 @@
 | `305000` | Abyss of Confession |
 | `306000` | Garden of Salvation |
 | `307000` | Garden of Adoration |
+| `311000` | Fallen Sanctum |
+| `312000` | Stricken Sanctum |

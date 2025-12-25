@@ -200,6 +200,10 @@
 | `8705` | City of Sentinel |
 | `8706` | Echo Car Driver |
 | `10003` | LV1_A_1 |
+| `81680` | Pioneer Training Ground - Elite |
+| `81690` | Pioneer Training Ground - Dummy |
+| `81700` | Pioneer Training Ground - Minions |
+| `81701` | 3.0 Test Server Special Training Ground |
 | `201010` | Misty Andante: Helix |
 | `202010` | Lightseeker: Cadence Flora |
 | `203010` | Crystallized Flame: Phlogiston |
@@ -210,3 +214,5 @@
 | `305010` | Rippling Whispers: Phlogiston |
 | `306010` | Golden Purity: Metallic Drip |
 | `307010` | Wind Hymn: Waveworn Residue |
+| `308040` | Forsaken Remnants |
+| `308050` | Corroded Remnants |

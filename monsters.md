@@ -85,6 +85,15 @@
 | `310000710` | Gang Member |
 | `310000720` | Nightmare: Baby Viridblaze Saurian |
 | `310000730` | Nightmare: Baby Roseshroom |
+| `310000740` | Tremor Warrior |
+| `310000750` | Nightmare: Tick Tack |
+| `310000760` | Nightmare: Dwarf Cassowary |
+| `310000770` | Flora Drone |
+| `310000780` | Mining Drone |
+| `310000790` | Geospider S4 |
+| `310000800` | Outcast Executioner |
+| `310000810` | Thundstaff Outcast |
+| `310000820` | Zip Zap |
 | `320000010` | Stonewall Bracer |
 | `320000020` | Violet-Feathered Heron |
 | `320000030` | Cyan-Feathered Heron |
@@ -134,6 +143,17 @@
 | `320000450` | Nightmare: Violet-Feathered Heron |
 | `320000460` | Nightmare: Cyan-Feathered Heron |
 | `320000470` | Nightmare: Viridblaze Saurian |
+| `320000480` | Nightmare: Roseshroom |
+| `320000490` | Twin Nova: Nebulous Cannon |
+| `320000500` | Twin Nova: Collapsar Blade |
+| `320000510` | Flora Reindeer |
+| `320000520` | Mining Reindeer |
+| `320000530` | Ironhoof |
+| `320000540` | Spacetrek Explorer |
+| `320000550` | Sabercat Reaver |
+| `320000560` | Sabercat Prowler |
+| `320000570` | Frostbite Coleoid |
+| `320000580` | Windlash Coleoid |
 | `330000010` | Tempest Mephis |
 | `330000020` | Inferno Rider |
 | `330000030` | Impermanence Heron |
@@ -176,6 +196,9 @@
 | `340000190` | Hecate |
 | `340000200` | Threnodian: Leviathan |
 | `340000201` | Reminiscence: Threnodian - Leviathan |
+| `340000210` | Hyvatia |
+| `340000220` | Reactor Husk |
+| `340000240` | Voidworm |
 | `350000010` | Phantom: Mourning Aix |
 | `350000020` | Phantom: Rocksteady Guardian |
 | `350000030` | Phantom: Hoartoise |
@@ -205,6 +228,12 @@
 | `350000270` | Phantom: Fallacy of No Return |
 | `350000280` | Phantom: Kerasaur |
 | `350000290` | Phantom: Lioness of Glory |
+| `350000300` | Phantom: Chop Chop |
+| `350000310` | Phantom: The False Sovereign |
+| `350000320` | Phantom: Hyvatia |
+| `350000330` | Phantom: Zip Zap |
+| `350000340` | Phantom: Twin Nova - Nebulous Cannon |
+| `350000350` | Phantom: Twin Nova - Collapsar Blade |
 | `360000010` | Jinhsi |
 | `360000020` | Changli |
 | `360000030` | Calcharo |

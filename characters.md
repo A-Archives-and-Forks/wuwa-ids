@@ -15,6 +15,7 @@
 | `1206` | Brant |
 | `1207` | Lupa |
 | `1208` | Galbrena |
+| `1209` | Mornye |
 | `1301` | Calcharo |
 | `1302` | Yinlin |
 | `1303` | Yuanwu |
@@ -40,6 +41,7 @@
 | `1506` | Phoebe |
 | `1507` | Zani |
 | `1508` | Chisa |
+| `1509` | Lynae |
 | `1601` | Taoqi |
 | `1602` | Danjin |
 | `1603` | Camellya |
