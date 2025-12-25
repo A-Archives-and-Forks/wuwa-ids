@@ -111,3 +111,10 @@
 | `21050084` | Fusion Accretion |
 | `21050094` | Waltz in Masquerade |
 | `21050104` | Radiant Dawn |
+| '21030046' | Spectrum Blaster |
+| '21010066' | Starfield Calibrator |
+| '21010045' | Radiance Cleaver |
+| '21020045' | Laser Shearer |
+| '21030045' | Phasic Homogenizer |
+| '21040045' | Pulsation Bracer |
+| '21050045' | Boson Astrolabe |
