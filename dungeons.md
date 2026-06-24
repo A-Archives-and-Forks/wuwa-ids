@@ -72,11 +72,20 @@
 | `1514` | Crimson Finale |
 | `1518` | Plane of Dark Tide |
 | `1533` | Civilization Capsule |
+| `1562` | Underground Exhibition Hall |
+| `1563` | Conference Hall |
+| `1564` | Student Base |
+| `1600` | Lucy's Memory |
+| `1604` | Arcade Sim Space |
+| `1606` | Dark Dream |
+| `1607` | The Moon |
+| `1608` | Car Chase |
 | `2001` | Narwhal Boss Battle |
 | `2021` | Weekly Challenge: Sinful Declension |
 | `2022` | Test Levels |
 | `2031` | Weekly Challenge: Warblade from Above |
 | `2041` | Weekly Challenge: Temporal Loop |
+| `2522` | Mind Dive Arcade |
 | `3000` | New Domain Test Map (single player) |
 | `3002` | Defense Domain Test Map (single player) |
 | `3003` | Test Level (monster capture) |
@@ -157,6 +166,14 @@
 | `8026` | Psyche Pass: The Outlier |
 | `8027` | Ragunna's Visitor |
 | `8028` | The Cinema House Murders |
+| `8039` | Chromatic Fantasy: Origin |
+| `8040` | Chromatic Fantasy I |
+| `8041` | Chromatic Fantasy II |
+| `8042` | Chromatic Fantasy III |
+| `8043` | Chromatic Fantasy IV |
+| `8047` | Dreamchaser I |
+| `8048` | Dreamchaser II |
+| `8049` | Dreamchaser III |
 | `8101` | JiyanCharacter trial copy |
 | `8102` | Barr Character Trial Copy |
 | `8103` | DanjinCharacter trial copy |
@@ -199,11 +216,17 @@
 | `8703` | Once Upon a Time in Rinascita |
 | `8705` | City of Sentinel |
 | `8706` | Echo Car Driver |
+| `8721` | Lahai-Roi: Become Beast |
+| `8722` | Mechanical Dawn |
+| `8723` | I, Biomech |
+| `8724` | Diva Dance |
+| `8725` | True Steel |
+| `8726` | Funds Never Sleep |
 | `10003` | LV1_A_1 |
 | `81680` | Pioneer Training Ground - Elite |
 | `81690` | Pioneer Training Ground - Dummy |
 | `81700` | Pioneer Training Ground - Minions |
-| `81701` | 3.0 Test Server Special Training Ground |
+| `81701` | Pioneer Special Training Ground |
 | `201010` | Misty Andante: Helix |
 | `202010` | Lightseeker: Cadence Flora |
 | `203010` | Crystallized Flame: Phlogiston |

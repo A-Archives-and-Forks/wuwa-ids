@@ -13,11 +13,16 @@
 | `1501` | Chaotic Juncture: Spark |
 | `1514` | Final Stage |
 | `1518` | Dark Tide Conflux |
+| `1562` | Underground Exhibition Hall Entrance |
+| `1563` | Conference Hall Entrance |
+| `1564` | Student Base Entrance |
 | `2021` | Chaotic Juncture |
 | `2022` | The Fated Confrontation |
 | `2031` | Statue of the Crownless |
 | `2061` | The Wheel of Broken Fate |
 | `2071` | Cindernite Apocalypse |
+| `2081` | Gate of the Lost Star |
+| `2091` | Seed of Illusory Origin |
 | `2513` | Shards of the Beyond |
 | `2516` | Spacetrek Collective Research Institute |
 | `4006` | Training Decive |

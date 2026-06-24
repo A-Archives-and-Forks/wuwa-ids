@@ -94,6 +94,13 @@
 | `310000800` | Outcast Executioner |
 | `310000810` | Thundstaff Outcast |
 | `310000820` | Zip Zap |
+| `310000830` | Iceglint Dancer |
+| `310000840` | Shadow Stepper |
+| `310000850` | Fractsidus Ripper |
+| `310000860` | Fractsidus Mawdoll |
+| `310000870` | Nightmare: Armed Corpo |
+| `310000880` | Nightmare: Security Corpo |
+| `310000890` | Nightmare: Spec Ops Corpo |
 | `320000010` | Stonewall Bracer |
 | `320000020` | Violet-Feathered Heron |
 | `320000030` | Cyan-Feathered Heron |
@@ -154,6 +161,15 @@
 | `320000560` | Sabercat Prowler |
 | `320000570` | Frostbite Coleoid |
 | `320000580` | Windlash Coleoid |
+| `320000590` | Kronablight |
+| `320000600` | Kronaclaw |
+| `320000601` | Reminiscence: Kronaclaw |
+| `320000610` | Glommoth |
+| `320000620` | Fractsidus Milliner |
+| `320000630` | Phagosite: Bipolarch |
+| `320000640` | Phagosite: Hysterarch |
+| `320000650` | Phagosite: Miserarch |
+| `320000660` | Voidwing Moth |
 | `330000010` | Tempest Mephis |
 | `330000020` | Inferno Rider |
 | `330000030` | Impermanence Heron |
@@ -199,6 +215,14 @@
 | `340000210` | Hyvatia |
 | `340000220` | Reactor Husk |
 | `340000240` | Voidworm |
+| `340000250` | Sigillum |
+| `340000260` | Nameless Explorer |
+| `340000270` | Aleph-1's Creation |
+| `340000271` | Reminiscence: Threnodian - Voidborne Construct |
+| `340000280` | Denia |
+| `340000281` | Reminiscence: Denia |
+| `340000290` | Nightmare: Adam Smasher |
+| `340000291` | Reminiscence - Nightmare: Adam Smasher |
 | `350000010` | Phantom: Mourning Aix |
 | `350000020` | Phantom: Rocksteady Guardian |
 | `350000030` | Phantom: Hoartoise |
@@ -234,6 +258,11 @@
 | `350000330` | Phantom: Zip Zap |
 | `350000340` | Phantom: Twin Nova - Nebulous Cannon |
 | `350000350` | Phantom: Twin Nova - Collapsar Blade |
+| `350000360` | Phantom: Sigillum |
+| `350000370` | Phantom: Iceglint Dancer |
+| `350000380` | Phantom: Reactor Husk |
+| `350000390` | Phantom: Kronaclaw |
+| `350000400` | Phantom: Glommoth |
 | `360000010` | Jinhsi |
 | `360000020` | Changli |
 | `360000030` | Calcharo |

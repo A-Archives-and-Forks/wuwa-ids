@@ -2,7 +2,6 @@
 
 | ID | Name |
 |----|------|
-| `3` | Astrite |
 | `4` | Lunite |
 | `5` | Waveplate |
 | `6` | Waveplate Crystal |
@@ -38,7 +37,17 @@
 | `59` | Waveborn Moonstone |
 | `63` | Synchro Coin |
 | `64` | Antivoid Modding Point |
+| `65` | All-Terrain Modding Point |
 | `66` | "Module" |
+| `68` | Spacetrek Datachip |
+| `71` | Encrypted Data |
+| `72` | Spindrift |
+| `73` | Aerial Modding Point |
+| `74` | 2nd Anniversary Coin |
+| `76` | Voidmatter Chip |
+| `78` | Weekly Activity Point |
+| `79` | CredChip |
+| `80` | Pull Tabs |
 | `10800` | Crystal Solvent |
 | `10801` | Inscription Device |
 | `10805` | Casket Sonar Use Permit: Jinzhou |
@@ -58,6 +67,8 @@
 | `50002` | Radiant Tide |
 | `50005` | Forging Tide |
 | `50006` | Voucher of Reciprocal Tides |
+| `50007` | Dreamcatcher Tide |
+| `50008` | Shadowforge Tide |
 | `50014` | Connoisseur |
 | `50015` | Purchase Connoisseur Channel |
 | `50016` | Insider Channel Key |
@@ -101,6 +112,7 @@
 | `51034` | New Voyage Radiant Lightpack |
 | `51035` | Champion's Battlesong Collection |
 | `51036` | Truthseeker's Battlesong Collection |
+| `51037` | Truthseeker's Battlesong Collection II |
 | `51038` | Spacetrek Prep Protocol |
 | `51039` | Astro-Calibration Protocol |
 | `51040` | Truthseeker's Radiant Collection I |
@@ -109,6 +121,10 @@
 | `51043` | Truthseeker's Forging Collection |
 | `51044` | Truthseeker's Tidal Collection |
 | `51045` | TARD-E's Monthly Aid |
+| `51048` | Truthseeker's Tuning Collection |
+| `51049` | Renegade's Shadowforge Collection I |
+| `51050` | Renegade's Dreamcatcher Collection |
+| `51051` | Renegade's Shadowforge Collection II |
 | `52001` | Awakening Bundle (For Pre-Sales) |
 | `52002` | Awakening Bundle |
 | `52004` | Quality Adventurer's Starter Pack |
@@ -118,12 +134,19 @@
 | `52008` | Returnee's Shell Credit Aid |
 | `52009` | Returnee's Forgery Aid |
 | `54002` | Custom Livery: Farewell to Yesterday |
+| `54003` | Voyaging Star Chassis Set |
+| `54004` | Custom Livery: Lunar Causality |
+| `54005` | Custom Livery: Horizon Lookout |
+| `54008` | Golden Coffee Ring |
+| `54009` | Crystal Sky Chassis Set |
 | `10001102` | Sanhua's Waveband |
 | `10001103` | Baizhi's Waveband |
 | `10001104` | Lingyang's Waveband |
 | `10001105` | Zhezhi's Waveband |
 | `10001106` | Youhu's Waveband |
 | `10001107` | Carlotta's Waveband |
+| `10001108` | Hiyuki's Waveband |
+| `10001109` | Lucilla's Waveband |
 | `10001202` | Chixia's Waveband |
 | `10001203` | Encore's Waveband |
 | `10001204` | Mortefi's Waveband |
@@ -132,12 +155,15 @@
 | `10001207` | Lupa's Waveband |
 | `10001208` | Galbrena's Waveband |
 | `10001209` | Mornye's Waveband |
+| `10001210` | Aemeath's Waveband |
+| `10001211` | Denia's Waveband |
 | `10001301` | Calcharo's Waveband |
 | `10001302` | Yinlin's Waveband |
 | `10001303` | Yuanwu's Waveband |
 | `10001305` | Xiangli Yao's Waveband |
 | `10001306` | Augusta's Waveband |
 | `10001307` | Buling's Waveband |
+| `10001308` | Rebecca's Waveband |
 | `10001402` | Yangyang's Waveband |
 | `10001403` | Aalto's Waveband |
 | `10001404` | Jiyan's Waveband |
@@ -147,6 +173,7 @@
 | `10001409` | Cartethyia's Waveband |
 | `10001410` | Iuno's Waveband |
 | `10001411` | Qiuyuan's Waveband |
+| `10001412` | Sigrika's Waveband |
 | `10001503` | Verina's Waveband |
 | `10001504` | Lumi's Waveband |
 | `10001505` | The Shorekeeper's Waveband |
@@ -154,6 +181,8 @@
 | `10001507` | Zani's Waveband |
 | `10001508` | Chisa's Waveband |
 | `10001509` | Lynae's Waveband |
+| `10001510` | Luuk Herssen's Waveband |
+| `10001511` | Lucy's Waveband |
 | `10001601` | Taoqi's Waveband |
 | `10001602` | Danjin's Waveband |
 | `10001603` | Camellya's Waveband |
@@ -239,6 +268,10 @@
 | `41400254` | Curse of the Abyss |
 | `41400264` | Suncoveter's Reach |
 | `41400274` | Burning Judgment |
+| `41400284` | Our Choice |
+| `41400294` | Gold in Memory |
+| `41400304` | We Who Question |
+| `41400314` | Nightmare Flashdrive |
 | `42100001` | Fusion Resistance Spray |
 | `42100002` | Aero Resistance Spray |
 | `42100003` | Electro Resistance Spray |
@@ -440,6 +473,8 @@
 | `50000109` | Podcast Premium Supply Pack |
 | `50000110` | Weekly Challenge Supply Pack |
 | `50000115` | Weekly Challenge Supply Pack II |
+| `50000116` | Weekly Challenge Supply Pack III |
+| `50000117` | Weekly Challenge Supply Pack IV |
 | `50000164` | Pioneer Podcast Weapon Chest |
 | `50000165` | Pioneer Association Basic Supply |
 | `50000166` | Pioneer Association Medium Supply |
@@ -458,6 +493,9 @@
 | `50000179` | Medium Enclosure Tank |
 | `50000180` | Advanced Enclosure Tank |
 | `50000181` | Premium Enclosure Tank |
+| `50000182` | Livery Set - Call from Beyond the Stars |
+| `50000183` | At Dream's Edge - Waveband |
+| `50000184` | Livery Set - Flowers For You |
 | `50000201` | Originite Weapon Supply Chest |
 | `50000202` | Poetry and Paean Weapon Chest |
 | `50000203` | Pioneer Podcast Supply Pack |
@@ -466,10 +504,15 @@
 | `50000210` | Gleaner's Ascension Supply |
 | `50000211` | Voyager's Ascension Supply |
 | `50000212` | Reprise Ascension Supply |
+| `50000213` | Gleaner's Ascension Supply II |
+| `50000214` | Gleaner's Ascension Supply III |
 | `50000401` | Forgery Basic Supply II |
 | `50000402` | Forgery Medium Supply II |
 | `50000403` | Forgery Advanced Supply II |
 | `50000404` | Forgery Premium Supply II |
+| `50000405` | Pioneer Association Medium Supply II |
+| `50000406` | Pioneer Association Advanced Supply II |
+| `50000407` | Pioneer Association Premium Supply II |
 | `50000408` | Basic Enclosure Tank II |
 | `50000409` | Medium Enclosure Tank II |
 | `50000410` | Advanced Enclosure Tank II |
@@ -481,7 +524,7 @@
 | `50000416` | Basic Enclosure Tank - Lahai-Roi |
 | `50000417` | Medium Enclosure Tank - Lahai-Roi |
 | `50000418` | Advanced Enclosure Tank - Lahai-Roi |
-| `50000419` | Premium Enclosure Tank	- Lahai-Roi |
+| `50000419` | Premium Enclosure Tank - Lahai-Roi |
 | `50001102` | Malleable Elite Class Echo III |
 | `50001103` | Malleable Elite Class Echo IV |
 | `50001104` | Malleable Elite Class Echo - Ragunna |
@@ -513,6 +556,13 @@
 | `50010005` | Morphable Echo - Pact of Neonlight Leap |
 | `50010006` | Morphable Echo - Halo of Starry Radiance |
 | `50010007` | Broken Tacet Wave |
+| `50010021` | Morphable Echo - Dream of the Lost |
+| `50010022` | Morphable Echo - Crown of Valor |
+| `50010023` | Morphable Echo - Law of Harmony |
+| `50010024` | Morphable Echo - Flamewing's Shadow |
+| `50010025` | Morphable Echo - Thread of Severed Fate |
+| `50020029` | Morphable Wishes of Quiet Snowfall |
+| `50020030` | Morphable Reel of Spliced Memories |
 | `70000002` | Boost Unit |
 | `70000003` | Boost Unit: Flight |
 | `70010001` | Dagger with Special Symbols |
@@ -548,7 +598,7 @@
 | `70010037` | Qiongxue's Original Manuscript |
 | `70010038` | "Fire in the Wilderness" Excerpt |
 | `70010039` | Scenic Photo |
-| `70010040` | Asos's Information Touchpad |
+| `70010040` | Athos's Information Touchpad |
 | `70010041` | Icefield Honor Medal |
 | `70010042` | Data source to be analyzed |
 | `70010043` | Universal repair box |
@@ -625,6 +675,11 @@
 | `70050064` | "Blazing Claw" |
 | `70050070` | Samousas' Treasure |
 | `70050072` | Huafeng's Vehicle Key |
+| `70050073` | Sweet Candy |
+| `70050074` | Fleeting Snowfluff Fan Meeting Poster |
+| `70050075` | Fan Meeting Keepsake Photo |
+| `70050076` | That Child's Talisman |
+| `70050079` | Safety Charm |
 | `70060001` | Old Booklet |
 | `70060003` | Dried Flower |
 | `70060015` | The Nimbus Chorale: Soil of Abundance |
@@ -676,6 +731,7 @@
 | `70140050` | Phaom Whistle |
 | `70140080` | Crimson Baton |
 | `70140081` | Wilting Reverberation |
+| `70140086` | Quickhack Module |
 | `70163901` | Roccia's Gift: Luceanite |
 | `70163902` | Scattered Petals |
 | `70163904` | "Star" |
@@ -683,6 +739,15 @@
 | `70290003` | Trail of Sunshine |
 | `70290004` | Knowledge of the Heliogyre |
 | `70290006` | Void Storm Generator |
+| `70320000` | Lucilla's Communicator |
+| `70320002` | Startorch Prize Medal |
+| `70320003` | The Rabbit's Bow Tie |
+| `70320010` | Starbright Resonance |
+| `70320012` | 5-Star Weapon Supply Chest - Synth Armament |
+| `70330001` | Customized Squeezy Jelly |
+| `70330002` | Old Music Record |
+| `70340007` | Refreshing Waffle |
+| `70340008` | Paper Black Cat |
 | `70500001` | Key to the Petri Dish |
 | `70500002` | Key to the Rock Ruins |
 | `70500003` | A beautiful necklace. |
@@ -696,10 +761,20 @@
 | `71030002` | Dream of Chaos |
 | `71030003` | The Unworthy Dreams |
 | `71030004` | Dream Imprint |
+| `71190001` | Denia's Birthday Cake |
+| `71200001` | Photo of the Central Area of Exhibition Hall |
+| `71200002` | Photo of the Old Research Institute |
+| `71200003` | Antivoid Material Lab Keepsake Photo |
+| `71200004` | Exit Key |
+| `71200005` | Damaged Photo of A Student Dorm |
+| `71200006` | Yellowed Photo of A Student Dorm |
+| `71200007` | Photo of the Classroom |
 | `71210001` | Treasure Map to Sword of Courage |
 | `71210002` | Wreath of Hope |
 | `71210003` | Benett's Terminal |
 | `71210004` | Cat's Eye Brooch |
+| `71210005` | Aemeath's Cassette |
+| `71210006` | Rune of "Seek" |
 | `71220001` | Plushie Village Restoration Log: I |
 | `71220002` | Plushies' Photo |
 | `71220003` | Plushie Village Restoration Log: Final |
@@ -762,6 +837,18 @@
 | `71500051` | Haven that Gleams Elegantly |
 | `71500057` | A Question with Many Answers |
 | `71500068` | The Clock of Doomed Future |
+| `71500071` | Blueprint Where Stars Are Etched |
+| `71500072` | Frostlands Where Barreness Thrives |
+| `71500075` | Torch that Ignites the Lasting Night |
+| `71500081` | Cradle That Holds the Void |
+| `71500083` | Silver Shuttle Faring through Dream |
+| `71500088` | The Eye That Gazes into the Abyss |
+| `71500089` | Whispers of an Undying Grudge |
+| `71500091` | The Mirror Reflecting the Beyond |
+| `71501001` | Inscriber - Lone Light in the Long Night |
+| `71501002` | Hopebearer - Lone Light in the Long Night |
+| `71501003` | Fabricator - Lone Light in the Long Night |
+| `71501004` | Solacer - Lone Light in the Long Night |
 | `71510101` | Rinascita Fishing Guidebook: Chapter One |
 | `71510102` | Rinascita Fishing Guidebook: Chapter Two |
 | `71510103` | Rinascita Fishing Guidebook: Chapter Three |
@@ -868,6 +955,7 @@
 | `80000065` | Marinated Olives |
 | `80000066` | Blooming Bread |
 | `80000067` | Laurel Shrimp in Nimbus Reduction |
+| `80000068` | Skelecanth Tartare |
 | `80000069` | Lichen Salad |
 | `80000070` | Pine Needle Soda |
 | `80000071` | Honeypot Jam |
@@ -878,10 +966,12 @@
 | `80000077` | Complete Nutrition Squeezy Jelly |
 | `80000078` | Lahai-Roi Special Plant Milk |
 | `80000079` | Canned Surprise |
-| `80000080` | Instant Wakeup Energy Gel Sachet |
 | `80000081` | Midnight Wonder Cup Noodles |
 | `80000082` | "Sweetness At the Corner" Chocolate Box |
 | `80000083` | Crispy Juicy Fried Pork Chops Lunchbox |
+| `80000084` | Morning, Resonator |
+| `80000085` | Spicy Crispy Chicken Burger |
+| `80000086` | The David Martinez |
 | `80001000` | Liondance Companion |
 | `80001001` | Sweet Stuffed Flatbread |
 | `80001002` | Iced Perilla |
@@ -920,6 +1010,12 @@
 | `80001060` | Super Doubleshot Shaved Ice Milkshake Deluxe |
 | `80001065` | Sweetened Olives |
 | `80001066` | Sweetleaf Blooming Bread |
+| `80001070` | Super Snowfluff Storm |
+| `80001071` | Splendorous Sweetness |
+| `80001072` | Hearty Double-Smoked Stew |
+| `80001074` | Star Crackle |
+| `80001077` | Packaged Red Bean Pudding |
+| `80001078` | Refreshing Morning |
 | `80001079` | Canned Efficiency |
 | `80001081` | Rainbow Wonder Cup Noodles |
 | `80004001` | Supermassive Birthday Cake (2025) |
@@ -957,6 +1053,7 @@
 | `80010028` | Chili Sauce Tofu Recipe |
 | `80010029` | Morri Pot Recipe |
 | `80010030` | Stuffed Tofu Recipe |
+| `80010032` | Happiness Tea Recipe |
 | `80010033` | Recipe: Lotus Pastry |
 | `80010034` | Recipe: Spicy Meat with Pavo Plums |
 | `80010035` | Huanglong Omelette Recipe |
@@ -1007,6 +1104,9 @@
 | `80010081` | Midnight Wonder Cup Noodles Recipe |
 | `80010082` | "Sweetness Around the Corner" Chocolate Box Recipe |
 | `80010083` | Cripsy Juicy Fried Pork Chops Lunchbox Recipe |
+| `80010084` | Morning, Resonator Recipe |
+| `80010085` | Spicy Crispy Chicken Burger Recipe |
+| `80010086` | The David Martinez Recipe |
 | `80020000` | Hot Pot Base |
 | `80020001` | Clear Soup |
 | `80020002` | Braising Sauce |
@@ -1068,6 +1168,23 @@
 | `80700005` | Purified Mechanite |
 | `80700006` | Refined Compressed Bedrock |
 | `80700007` | Boosted Constructor Core |
+| `80700008` | Type-F Restorative |
+| `80700009` | Type-S Restorative |
+| `80700010` | Type-T Restorative |
+| `80700011` | Type-Q Restorative |
+| `80700012` | Prism Fruit |
+| `80800001` | Trust Key |
+| `80900001` | Starfall Coin |
+| `80900002` | Lollo Voucher |
+| `80900003` | Invitation to the Fest |
+| `80900004` | Fest Decor Collection I |
+| `80900005` | Fest Decor Collection II |
+| `80900006` | Fest Decor Collection III |
+| `80900007` | Fest Decor Collection IV |
+| `80900008` | Fest Decor Collection V |
+| `80900009` | Fest Decor Collection VI |
+| `80900010` | Fest Decor Collection VII |
+| `80900011` | Fest Decor Collection VIII |
 | `83100011` | The Magistrate's Fortune Stick I |
 | `83100021` | Warm Marble I |
 | `83100031` | Puppy Cookie I |
@@ -1155,10 +1272,13 @@
 | `87400781` | Shorekeeper Sticker - Hexagon III |
 | `87400801` | Augusta Sticker - Circle I |
 | `87400811` | Augusta Sticker - Rhombus I |
+| `87400821` | Augusta Sticker - Hexagon I |
 | `87400831` | Augusta Sticker - Circle II |
 | `87400841` | Augusta Sticker - Rhombus II |
+| `87400851` | Augusta Sticker - Hexagon II |
 | `87400861` | Augusta Sticker - Circle III |
 | `87400871` | Augusta Sticker - Rhombus III |
+| `87400881` | Augusta Sticker - Hexagon III |
 | `87400901` | Iuno Sticker - Circle I |
 | `87400911` | Iuno Sticker - Rhombus I |
 | `87400921` | Iuno Sticker - Hexagon I |
@@ -1244,6 +1364,12 @@
 | `87405009` | Souvenir: Professor Namipon's Drink Can |
 | `87501001` | Artisanal Craftwork A |
 | `87501002` | Artisanal Craftwork B |
+| `89500001` | EXP Chip |
+| `89500002` | Stardock Voucher |
+| `89500010` | C-Class Tactical ROM Blind Box |
+| `89500011` | B-Class Tactical ROM Blind Box |
+| `89500012` | A-Class Tactical ROM Blind Box |
+| `89500013` | S-Class Tactical ROM Blind Box |
 | `90000001` | Resonator Experience |
 | `102181705` | <b>Lab Safety Fundamentals</b> |
 | `874010010` | Namipon's Sparkling Water - Plain |

@@ -8,17 +8,12 @@
 | `21010013` | Broadblade of Night |
 | `21010014` | Ultrasonic Judgement |
 | `21010015` | Lustrous Razor |
-| `21010016` | Verdant Summit |
 | `21010023` | Originite: Type I |
 | `21010024` | Discord |
-| `21010026` | Ages of Harvest |
 | `21010034` | Broadblade#41 |
-| `21010036` | Wildfire Mark |
 | `21010043` | Broadblade of Voyager |
-| `21010046` | Thunderflare Dominion |
 | `21010053` | Guardian Broadblade |
 | `21010054` | T4-5Jinzhou+ Series Greatsword |
-| `21010056` | Kumokiri |
 | `21010063` | Beguiling Melody |
 | `21010064` | Helios Cleaver |
 | `21010074` | Autumntrace |
@@ -30,7 +25,6 @@
 | `21020013` | Sword of Night |
 | `21020014` | Ultrasonic Razor |
 | `21020015` | Emerald of Genesis |
-| `21020016` | Blazing Brilliance |
 | `21020017` | Somnoire Anchor |
 | `21020023` | Originite: Type II |
 | `21020026` | Red Spring |
@@ -43,7 +37,6 @@
 | `21020054` | T4-5Jinzhou+ series short sword |
 | `21020056` | Defier's Thorn |
 | `21020064` | Lunar Cutter |
-| `21020066` | Emerald Sentence |
 | `21020074` | Lumingloss |
 | `21020084` | Endless Collapse |
 | `21020094` | Fables of Wisdom |
@@ -56,14 +49,14 @@
 | `21030016` | The Last Dance |
 | `21030023` | Originite: Type III |
 | `21030024` | Cadenza |
-| `21030026` | Woodland Aria |
 | `21030034` | Pistols#26 |
-| `21030036` | Lux & Umbra |
 | `21030043` | Pistols of Voyager |
 | `21030044` | Undying Flame |
 | `21030053` | Guardian Pistols |
 | `21030054` | T4-5Jinzhou+ series pistols |
+| `21030056` | Spectral Trigger |
 | `21030064` | Novaburst |
+| `21030066` | Skull Thrasher |
 | `21030074` | Thunderbolt |
 | `21030084` | Relativistic Jet |
 | `21030094` | Romance in Farewell |
@@ -73,7 +66,6 @@
 | `21040013` | Gauntlets of Night |
 | `21040014` | Ultrasonic Rockbreaker |
 | `21040015` | Abyss Surges |
-| `21040016` | Verity's Handle |
 | `21040023` | Originite: Type IV |
 | `21040024` | Marcato |
 | `21040026` | Tragicomedy |
@@ -81,7 +73,6 @@
 | `21040036` | Blazing Justice |
 | `21040043` | Gauntlets of Voyager |
 | `21040044` | Amity Accord |
-| `21040046` | Moongazer's Sigil |
 | `21040053` | Guardian Gauntlets |
 | `21040064` | Hollow Mirage |
 | `21040074` | Stonard |
@@ -96,7 +87,6 @@
 | `21050016` | Stringmaster |
 | `21050023` | Originite: Type V |
 | `21050024` | Variation |
-| `21050026` | Rime-Draped Sprouts |
 | `21050027` | Ocean's Gift |
 | `21050034` | Rectifier#25 |
 | `21050036` | Stellar Symphony |
@@ -109,12 +99,6 @@
 | `21050064` | Comet Flare |
 | `21050066` | Lethean Elegy |
 | `21050084` | Fusion Accretion |
+| `21050086` | Freeze Frame |
 | `21050094` | Waltz in Masquerade |
 | `21050104` | Radiant Dawn |
-| '21030046' | Spectrum Blaster |
-| '21010066' | Starfield Calibrator |
-| '21010045' | Radiance Cleaver |
-| '21020045' | Laser Shearer |
-| '21030045' | Phasic Homogenizer |
-| '21040045' | Pulsation Bracer |
-| '21050045' | Boson Astrolabe |

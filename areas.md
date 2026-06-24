@@ -190,8 +190,29 @@
 | `41057` | Fourth Solistree - 2nd Layer |
 | `41059` | Orbit Valley Pass - Main |
 | `41065` | Spacetrek Archive - Recreational Zone |
-| `41066` | Startorch Academy - Square |
-| `41067` | Startorch Academy - Teaching Zone |
-| `41068` | Startorch Academy - Freight Zone |
+| `41066` | Square |
+| `41067` | Teaching Zone |
+| `41068` | Freight Zone |
+| `42005` | Dimmr Plains Shaft |
+| `42011` | Ceased Court |
+| `42012` | Petalfold Recess |
+| `42013` | Skyrelic Cascade |
+| `42017` | Frostseize Isle |
+| `42018` | Solvein Heartwood |
+| `42019` | Voidthirst Cradle - Entrance |
+| `42020` | Voidthirst Cradle - First Floor |
+| `42021` | Voidthirst Cradle - Second Floor |
+| `42023` | Endreach Barrens |
+| `45009` | Offshore Void Storm Monitoring Zone |
+| `45010` | Ginnungamere Void Storm Monitoring Zone |
+| `45011` | Ginnungamere |
+| `45012` | Oldfrost Harbor |
+| `45014` | Exostrider Observation Station |
+| `45015` | Upphaf Forest Excavation Site |
+| `45016` | Provenance Enclave |
+| `45018` | Exostrider Slumber Site |
+| `45019` | Wavecleave Cape |
+| `45021` | SkyArk Space Station: Lab Sector I |
+| `45022` | SkyArk Space Station: Lab Sector II |
 | `1500001` | Invisible Walls for TD test cases |
 | `1500002` | 93-Invisible Walls for TD test cases |
